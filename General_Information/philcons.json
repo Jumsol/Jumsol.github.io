@@ -1,0 +1,142 @@
+[
+    {
+        "question": "There shall be a Vice-President who shall have the same qualifacation and term of ofice and be elected with, and in the same manner, as the President. What is the minimum age requirement for a person to be qualified as a vice-president?",
+        "choices": {
+            "1": "Thirty (30)",
+            "2": "Thirty-five (35)",
+            "3": "Forty (40) ",
+            "4": "forty-five (45)"
+        },
+        "answer": "3"
+    },
+    {
+        "question": "Who shall have the exclusive power to initiate all cases of impeachment?",
+        "choices": {
+            "1": "House of Blue Ribbon Committee",
+            "2": "House of Representatives",
+            "3": "house of the Senate",
+            "4": "Speacker of the House"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "A politically organized body of people usually accupying a definate territory.",
+        "choices": {
+            "1": "Country",
+            "2": "Sovereignty",
+            "3": "Community",
+            "4": "State"
+        },
+        "answer": "4"
+    },
+    {
+        "question": "The Congress, by a vote of _____ of both Houses in joint session assembled, voting separately, shall have the sole power to declare a state of war  ",
+        "choices": {
+            "1": "Two-thirds",
+            "2": "One-haft",
+            "3": "Three quarters",
+            "4": "Minority"
+        },
+        "answer": "1"
+    },
+    {
+        "question": "Juan is residing here at the Philippines for about 11 months. How many month/s should he still reside so that he will be a qualified voters?",
+        "choices": {
+            "1": "4 months",
+            "2": "3 months",
+            "3": "2 months",
+            "4": "1 month"
+        },
+        "answer": "4"
+    },
+    {
+        "question": "Educational istitutions, other than those established by religious groups and missions boards, shall be own solely by citizens of the Philippines or corporations or asssociations at least ____ per centum of the capital of which is owned by such citizens.",
+        "choices": {
+            "1": "Fifty",
+            "2": "Sixty",
+            "3": "Eighty",
+            "4": "One-hundred"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "Freedom constatution is a kind provisional constitution. Who made this kind of constitution?",
+        "choices": {
+            "1": "Fidel V Ramos",
+            "2": "Maneul L Quezon ",
+            "3": "Cory Aquino",
+            "4": "Ferdinand Marcos"
+        },
+        "answer": "3"
+    },
+    {
+        "question": "It is the constitution used by the Philippine government from the commonwealth period until 1973.",
+        "choices": {
+            "1": "The Malolos Constitution",
+            "2": "The Biak-Na-Bato Constitution",
+            "3": "The 1935 Constitution",
+            "4": "The 1901 Constitution"
+        },
+        "answer": "3"
+    },
+    {
+        "question": "It is the inhabitants or population which its number is not definite but should be politically united.",
+        "choices": {
+            "1": "People",
+            "2": "Sovereignty",
+            "3": "Territory",
+            "4": "Government"
+        },
+        "answer": "1"
+    },
+    {
+        "question": "No person shall be a Senator unless he is a natural-born citizens of the Pholippines and, on the day of the election,is at least_____years of age.",
+        "choices": {
+            "1": "Thirty (30)",
+            "2": "Thirty-five (35)",
+            "3": "Forty (40)",
+            "4": "Forty-five (45)"
+        },
+        "answer": "4"
+    },
+    {
+        "question": "What contitution was being ratified leading to the abolishment of congress and was replaced by the Batasang Pambansa as the legislative branch.",
+        "choices": {
+            "1": "1935 constitution",
+            "2": "1943 constitution",
+            "3": "1973 constitution",
+            "4": "1987 constitution"
+        },
+        "answer": "3"
+    },
+    {
+        "question": "The legislative power shall be vested in congress of the Philippines which shall consist of a Senate an a housse of Representative. How many is the composition of the Senate?",
+        "choices": {
+            "1": "6",
+            "2": "12",
+            "3": "18",
+            "4": "24"
+        },
+        "answer": "4"
+    },
+    {
+        "question": "What are the forms of government in wich the political power is exercised by a few previlege class? ",
+        "choices": {
+            "1": "Oligarchy and Aristocracy",
+            "2": "Aristocracy and Monarchy",
+            "3": "Theocracy and Fascism",
+            "4": "Demmocracy and Tyranny"
+        },
+        "answer": "4"
+    },
+    {
+        "question": "An element of state that include the land within rhe bounderies of the state ",
+        "choices": {
+            "1": "Flexible",
+            "2": "Inspired",
+            "3": "Dependable",
+            "4": "Inclined"
+        },
+        "answer": "4"
+    }
+]
