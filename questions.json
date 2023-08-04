@@ -1,0 +1,52 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "choices": {
+        "1": "Berlin",
+        "2": "London",
+        "3": "Paris",
+        "4": "Madrid"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "choices": {
+        "1": "Venus",
+        "2": "Mars",
+        "3": "Jupiter",
+        "4": "Mercury"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "choices": {
+        "1": "H2O",
+        "2": "CO2",
+        "3": "O2",
+        "4": "N2"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "choices": {
+        "1": "Elephant",
+        "2": "Giraffe",
+        "3": "Blue Whale",
+        "4": "Tiger"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "choices": {
+        "1": "Leonardo da Vinci",
+        "2": "Pablo Picasso",
+        "3": "Vincent van Gogh",
+        "4": "Michelangelo"
+      },
+      "answer": "1"
+    }
+  ]
