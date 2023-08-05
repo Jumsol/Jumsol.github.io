@@ -147,11 +147,21 @@
     height: auto;
   }
 
+  .logos-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* To vertically center the logos */
+    width: 100%;
+    margin-right: auto; /* Pushes the logos to the very left */
+  }
+  
   .csclogo {
-    margin-bottom: 2rem;
     max-width: 30%;
     height: auto;
-    margin-left: auto;
-    margin-right: 0;
-    display: block;
+  }
+  
+  .bakunawalogo {
+    max-width: 30%;
+    height: auto;
+    margin-left: auto; /* Pushes the logo to the very right */
   }
