@@ -1,0 +1,652 @@
+[
+    {
+      "question": "Teenagers are easily SUSCEPTIBLE to peer influence",
+      "choices": {
+        "1": "Flexible",
+        "2": "Inspired",
+        "3": "Dependable",
+        "4": "Inclined"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "The lotto winners will be selected at RANDOM",
+      "choices": {
+        "1": "By chance",
+        "2": "By competition",
+        "3": "By testing",
+        "4": "By interviewing"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "If you are AMBIVALENT with the answers, analyze the given problem",
+      "choices": {
+        "1": "Confusion",
+        "2": "Innocent",
+        "3": "Uncertain",
+        "4": "Unaware"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "Cleanliness is still AT A DISCOUNT in many parts of the country",
+      "choices": {
+        "1": "Valued fully",
+        "2": "Not to be valued fully",
+        "3": "Attended to",
+        "4": "Believed"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "My mother is always ADAMANT in eating breakfast before leaving the house",
+      "choices": {
+        "1": "Resolute",
+        "2": "Uncertain",
+        "3": "Forgetful",
+        "4": "Clueless"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "He left the country because of the OMINOUS experience he had in the past.",
+      "choices": {
+        "1": "Unforgetable",
+        "2": "Threatening",
+        "3": "Ugly",
+        "4": "Remarkable"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "Reading words without understanding their meaning is FUTILE.",
+      "choices": {
+        "1": "Helpless",
+        "2": "Useless",
+        "3": "Unnecessary",
+        "4": "Avoidable"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "Mr. Henry Sy is now ROLLING IN MONEY.",
+      "choices": {
+        "1": "Very rich",
+        "2": "Famous",
+        "3": "Losing money",
+        "4": "Successful in business"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "CARRY on with your work.",
+      "choices": {
+        "1": "Continue",
+        "2": "Carry the work",
+        "3": "Stop",
+        "4": "Be on time"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "She wears gold but people knows how OSTENTATIOUS she can be.",
+      "choices": {
+        "1": "Pretentious",
+        "2": "Ambitious",
+        "3": "Gorgeous",
+        "4": "Rebellious"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "Reynan is the APPLE OF HIS MOTHER'S EYE.",
+      "choices": {
+        "1": "Adored",
+        "2": "Dearly loved",
+        "3": "Always watched",
+        "4": "Pride"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "He got the money to fund his checks in the bank at the ELEVENTH HOUR.",
+      "choices": {
+        "1": "11:00 am",
+        "2": "11:00 PM",
+        "3": "Just in time",
+        "4": "11th hour of the day"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "He submitted a GROTESQUE artwork that nobody in the class could relate to.",
+      "choices": {
+        "1": "Different",
+        "2": "Wierd",
+        "3": "Beautiful",
+        "4": "Colorful"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "She is generous to a FAULTH.",
+      "choices": {
+        "1": "Excessively",
+        "2": "Seldom",
+        "3": "Rarely",
+        "4": "Infrequent"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "Thier CLANDESTINE affair remained unknown for three years.",
+      "choices": {
+        "1": "Forbidden",
+        "2": "Surprise",
+        "3": "Secret",
+        "4": "Unacceptable"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The marketing officers were asked to GO OVER  the figures in their reports before the conference.",
+      "choices": {
+        "1": "Compute",
+        "2": "Calculate",
+        "3": "Revise",
+        "4": "Review"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "Business, like life, is much too extensive and LIQUESCENT to be wholly contained by any checklist, formula theory.",
+      "choices": {
+        "1": "Structured",
+        "2": "Changeable",
+        "3": "Complicated",
+        "4": "Shapeless"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "We were forced to POSTPONE the meeting.",
+      "choices": {
+        "1": "Call off",
+        "2": "Put off",
+        "3": "Delay",
+        "4": "Do without"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "PitPit is repulsive and rebellious. She always speaks SORDID words",
+      "choices": {
+        "1": "Dirty",
+        "2": "Vulgar",
+        "3": "Weired",
+        "4": "Bizarre"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "PUNCTUALITY is imposed in this office",
+      "choices": {
+        "1": "Being cheerful",
+        "2": "Being courteous",
+        "3": "Being on time",
+        "4": "Being efficient"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Every time i see Cathy looking at me, I feel EUPHORIA in my bones.",
+      "choices": {
+        "1": "Gravity",
+        "2": "Ecstasy",
+        "3": "Erotic",
+        "4": "Numb"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "Rexklessness always entails JEOPARDY.",
+      "choices": {
+        "1": "Danger",
+        "2": "Crisis",
+        "3": "Aprrehension",
+        "4": "Control"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "Jumryl RESOLVED to act more wisely next time",
+      "choices": {
+        "1": "Promised",
+        "2": "Hoped",
+        "3": "Decided",
+        "4": "Consented"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "I brought this book because when I read the BLURB at the back, I fell in love with it.",
+      "choices": {
+        "1": "Summary",
+        "2": "Teaser",
+        "3": "Blog",
+        "4": "Plot"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The woman reported that the diamonds snatched from here were GENUINE.",
+      "choices": {
+        "1": "Valuable",
+        "2": "Real",
+        "3": "Imitations",
+        "4": "Synthetic"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "Sanctuaries for wildlife have DWINDLED alarmingly in the last decade",
+      "choices": {
+        "1": "Disappeared",
+        "2": "Changed",
+        "3": "Decreased",
+        "4": "Multiplied"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Finding a way out of the LABYRINTH is the last challenge of the competition.",
+      "choices": {
+        "1": "Castle",
+        "2": "Forest",
+        "3": "Maze",
+        "4": "Box"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Myla loves to eat a PRODIGIOUS amout of home-made bread.",
+      "choices": {
+        "1": "Tiny",
+        "2": "Moderate",
+        "3": "Huge",
+        "4": "Slight"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "There is still love in our hearts amidst our seemingly MUNDANE existence.",
+      "choices": {
+        "1": "Complicated",
+        "2": "Modern",
+        "3": "Wordly",
+        "4": "Wealthy"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Paramillion Inc. and Reynan's Printing are going to MERGE by the middle of the year.",
+      "choices": {
+        "1": "Change owners",
+        "2": "Become one",
+        "3": "Expand",
+        "4": "Divide into two"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "Faith has a strong PENCHANT in collecting cars.",
+      "choices": {
+        "1": "Belief",
+        "2": "Fondness",
+        "3": "Hobby",
+        "4": "Route"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "The recommendation of the wage council is REPUGNANT to the employers.",
+      "choices": {
+        "1": "Acceptable",
+        "2": "Objectionable",
+        "3": "Beneficial",
+        "4": "Degrading"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "It is FUTILE to argue with the boss once he has made up his mind.",
+      "choices": {
+        "1": "Useful",
+        "2": "Useless",
+        "3": "Hopeful",
+        "4": "Encouraging"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "Diskettes and CDs are going OBSOLETE",
+      "choices": {
+        "1": "Recycled",
+        "2": "Refurbished",
+        "3": "Updated",
+        "4": "Outdated"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "One SYMPTOM of H-fever is nose-bleeding.",
+      "choices": {
+        "1": "Symbol",
+        "2": "Caused",
+        "3": "Sign",
+        "4": "Pain"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The Queen of the Night dances VIVACIOUSLY.",
+      "choices": {
+        "1": "Lively",
+        "2": "Awkward",
+        "3": "Kindly",
+        "4": "Sweetly"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The baffled owner ACQUIESCED to the worker's demands.",
+      "choices": {
+        "1": "Opposed",
+        "2": "Reacted",
+        "3": "Agreed",
+        "4": "Resisted"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The post is TITLED; please straighten it.",
+      "choices": {
+        "1": "Sloping",
+        "2": "High",
+        "3": "Adjustable",
+        "4": "Level"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The court released a DOGMATIC statement that made people more hopeful.",
+      "choices": {
+        "1": "Naive",
+        "2": "Unbelievable",
+        "3": "Assertive",
+        "4": "Unclear"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The union's GRIEVANCE committee met with the school directors to protest the teacher's dismissal.",
+      "choices": {
+        "1": "Retirement",
+        "2": "Personnel",
+        "3": "Scholarship",
+        "4": "Complaint"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "This generation is prone to PLETHORIC use of mobile gadgets.",
+      "choices": {
+        "1": "Essential",
+        "2": "Crucial",
+        "3": "Important",
+        "4": "Excessive"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "Pilo's insensitivity has created ANIMOSITY to the worker's demand.",
+      "choices": {
+        "1": "Distrust",
+        "2": "Hostility",
+        "3": "Fear",
+        "4": "Distance"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "A CONSCIENTIOUS teacher spends hours preparing lesson plans and computing student's grades.",
+      "choices": {
+        "1": "Creative",
+        "2": "Careful",
+        "3": "Proficient",
+        "4": "Efficient"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "I am usually HAPHAZARD in composing my poetry but they turn out so well anyway.",
+      "choices": {
+        "1": "Disorganized",
+        "2": "Blank",
+        "3": "Puzzled",
+        "4": "Strategic"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "His boss appeared to be in an AFFABLE mood that Albert decided to ask a raise.",
+      "choices": {
+        "1": "Agreeable",
+        "2": "Cheerful",
+        "3": "Courteous",
+        "4": "Uncertain"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Three authors COLLABORATED in preparing this book.",
+      "choices": {
+        "1": "Work together",
+        "2": "Collate",
+        "3": "Communak",
+        "4": "Contribute"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The DPWH secretary obeyed the president's order in a COMPLAISANT manner.",
+      "choices": {
+        "1": "Obliging",
+        "2": "Make perfect",
+        "3": "Complaint",
+        "4": "Making up for"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "Ang mag magbubukid ay NABIHASA sa paggamit ng kalabaw bilang katulong nila sa pagsasaka.",
+      "choices": {
+        "1": "Nagsawa",
+        "2": "Nagtiwala",
+        "3": "Nasanay",
+        "4": "Natuto"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Mrs. Leny Ngo cannot keep her COMPLICITY in this affair secret very long.",
+      "choices": {
+        "1": "Complication",
+        "2": "Involvement",
+        "3": "Comprise",
+        "4": "Conspiracy"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "The search for a CONSORT for the heiress of the throne ended happily.",
+      "choices": {
+        "1": "Escort",
+        "2": "Body guard",
+        "3": "Husband",
+        "4": "Prince"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Miss Sabina's employer offered to DEFRAY the cost of her trip to Hong Kong.",
+      "choices": {
+        "1": "Provide for the payment of",
+        "2": "Charge",
+        "3": "Turn side",
+        "4": "Reduce"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "The Defence presented its case to the jury in a TRENCHANT manner.",
+      "choices": {
+        "1": "Legalistic",
+        "2": "Dignified",
+        "3": "Vague",
+        "4": "Cautious"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "The Saudi Arabian Government DECAPITATED three criminals in march, 1996.",
+      "choices": {
+        "1": "Hang",
+        "2": "Imprisoned",
+        "3": "Beheaded",
+        "4": "Release"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Japanese CUISINE is now famous in Manila.",
+      "choices": {
+        "1": "Fast food",
+        "2": "Chefs",
+        "3": "Restaurant",
+        "4": "Style of cooking"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "A special group in the police force is believed to be engaged in FURTIVE activities.",
+      "choices": {
+        "1": "Illegal",
+        "2": "Suspicious",
+        "3": "Outstanding",
+        "4": "Ineffective"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Dr. Reynan prescribes MASSIVE doses of antibiotics for his patients with tuberculosis.",
+      "choices": {
+        "1": "Daily",
+        "2": "Double",
+        "3": "Heavy",
+        "4": "Encourage"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "Ang PAGAL na guro ay sandaling tumigil bago muling nagpatuloy sa pagsasalita.",
+      "choices": {
+        "1": "Pagod",
+        "2": "Galit",
+        "3": "Pihikan",
+        "4": "Mabagal"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "ACUMEN of a genius.",
+      "choices": {
+        "1": "Cleverness",
+        "2": "Brilliance",
+        "3": "Keeness",
+        "4": "Abuse"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "HOMOGENEOUS parts.",
+      "choices": {
+        "1": "Different",
+        "2": "Similar",
+        "3": "Mixed",
+        "4": "Tight"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "GARRULOUS statement.",
+      "choices": {
+        "1": "Hostile",
+        "2": "Worrdy",
+        "3": "Inconsistent",
+        "4": "Greed"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "LUSTROUS lips.",
+      "choices": {
+        "1": "Sensual",
+        "2": "Red",
+        "3": "Colorful",
+        "4": "Shining"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "EXORBITANT price.",
+      "choices": {
+        "1": "Low",
+        "2": "Cheap",
+        "3": "Unreasonable",
+        "4": "Uneasy"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "ABRUPT action.",
+      "choices": {
+        "1": "Long",
+        "2": "Sudden",
+        "3": "Delayed",
+        "4": "Advanced"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "CONTROVERSIAL issue",
+      "choices": {
+        "1": "Ugly",
+        "2": "Pleasant",
+        "3": "Faultfinding",
+        "4": "Debatable"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "When Lea was asked to sing, she did not FALTER.",
+      "choices": {
+        "1": "Hesitate",
+        "2": "Pretend",
+        "3": "Give-in",
+        "4": "Go-on"
+      },
+      "answer": "1"
+    }
+  ]
