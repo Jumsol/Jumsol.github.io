@@ -106,12 +106,6 @@
     transform: none;
 }
 
-.quit-button-container {
-  position: absolute;
-  top: 10px; 
-  left: 10px;
-}
-
 #quitBtn  {
   font-size: 1.8rem;
   padding: 1rem 0;
@@ -135,4 +129,10 @@
   cursor: not-allowed;
   box-shadow: none;
   transform: none;
+}
+
+@media screen and (max-width: 767px) {
+  .quit-button-container {
+    display: none;
+  }
 }
