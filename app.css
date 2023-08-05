@@ -125,3 +125,21 @@
   input::placeholder {
     color: #aaa;
   }
+
+  body {
+    background-image: url("/Images/OIP.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  .logo {
+    margin-bottom: 2rem;
+    max-width: 100%;
+    height: auto;
+  }
+  .logo1 {
+    margin-bottom: 5rem;
+    max-width: 100%;
+    height: auto;
+  }
