@@ -51,8 +51,8 @@ startGame = () => {
     loader.classList.add('hidden');
 
     // Inside the startGame function, create variables for the audio elements
-const correctSound = document.getElementById('correctSound');
-const wrongSound = document.getElementById('wrongSound');
+correctSound = document.getElementById('correctSound');
+wrongSound = document.getElementById('wrongSound');
 };
 
 getNewQuestion = () => {
