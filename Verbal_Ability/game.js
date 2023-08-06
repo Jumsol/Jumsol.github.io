@@ -105,7 +105,8 @@ choices.forEach((choice) => {
 
         // Show the "Next Question" button after a short delay
         setTimeout(() => {
-            document.getElementById('nextBtn').classList.remove('hidden');
+            const elements = document.querySelectorAll('#nextBtn, #explainBtn');
+            elements.forEach(element => element.classList.remove('hidden'));
         }, 1000);
     });
 });
@@ -116,7 +117,8 @@ incrementScore = (num) => {
 };
 
 document.getElementById('nextBtn').addEventListener('click', () => {
-    document.getElementById('nextBtn').classList.add('hidden');
+    const elements = document.querySelectorAll('#nextBtn, #explainBtn');
+            elements.forEach(element => element.classList.add('hidden'));
     getNewQuestion();
 });
 
