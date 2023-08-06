@@ -49,6 +49,10 @@ startGame = () => {
     getNewQuestion();
     game.classList.remove('hidden');
     loader.classList.add('hidden');
+
+    // Inside the startGame function, create variables for the audio elements
+const correctSound = document.getElementById('correctSound');
+const wrongSound = document.getElementById('wrongSound');
 };
 
 getNewQuestion = () => {
@@ -93,7 +97,11 @@ choices.forEach((choice) => {
 
         if (classToApply === 'correct') {
             incrementScore(CORRECT_BONUS);
+             // Play the correct sound
+             correctSound.play();
         } else {
+             // Play the wrong sound
+             wrongSound.play();
             // Highlight the correct answer if the selected answer is wrong
             const correctChoice = choices.find(
                 (choice) => choice.dataset['number'] == currentQuestion.answer
