@@ -96,7 +96,7 @@
     background-color: #4fe7ed;
 }
 
-#nextBtn :hover {
+#nextBtn:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
     transform: translateY(-0.1rem);
@@ -122,7 +122,7 @@
   background-color: #4fe7ed;
 }
 
-#quitBtn :hover {
+#quitBtn:hover {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
   transform: translateY(-0.1rem);
@@ -148,7 +148,7 @@
   background-color: #4fe7ed;
 }
 
-#explainBtn :hover {
+#explainBtn:hover {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
   transform: translateY(-0.1rem);
@@ -161,8 +161,30 @@
   transform: none;
 }
 
+.hidden-choice {
+  display: none;
+}
+
+.explanation {
+  font-size: 18px; /* Adjust the font size as needed */
+  margin-top: 10px; /* Adjust the margin top as needed */
+}
+
 /* @media screen and (max-width: 767px) {
   .quit-button-container {
     display: ;
   }
 } */
+/* Add this to your game.css */
+.question-text {
+  text-indent: 20px; /* Adjust the indentation as desired */
+}
+
+.question-text p {
+  margin: 10px 0; /* Adjust the top and bottom margin as desired */
+}
+
+.scrollable {
+  max-height: 150px; /* Adjust this value as needed */
+  overflow: auto;
+}
