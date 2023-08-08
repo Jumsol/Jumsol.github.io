@@ -14,12 +14,13 @@ let availableQuesions = [];
 let questions = [];
 
 // Load questions from the JSON file
-fetch('/Numerical_Ability/problemsolvingData.json')
+fetch('/Numerical_Ability/problemSolving.js')
   .then((res) => res.json())
   .then((loadedQuestions) => {
     questions = loadedQuestions.map((loadedQuestion) => {
       const formattedQuestion = {
         question: loadedQuestion.question,
+        explanation: loadedQuestion.explanation,
       };
 
       const answerChoices = Object.values(loadedQuestion.choices);
@@ -49,38 +50,40 @@ startGame = () => {
     getNewQuestion();
     game.classList.remove('hidden');
     loader.classList.add('hidden');
-    correctSound = document.getElementById('correctSound');
-    wrongSound = document.getElementById('wrongSound');
+
+    // Inside the startGame function, create variables for the audio elements
+correctSound = document.getElementById('correctSound');
+wrongSound = document.getElementById('wrongSound');
 };
 
 getNewQuestion = () => {
     if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
-        localStorage.setItem('mostRecentScore', score);
-        //go to the end page
-        return window.location.assign('/end.html');
+      localStorage.setItem('mostRecentScore', score);
+      //go to the end page
+      return window.location.assign('/end.html');
     }
     questionCounter++;
     progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
     //Update the progress bar
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
-
+  
     const questionIndex = Math.floor(Math.random() * availableQuesions.length);
     currentQuestion = availableQuesions[questionIndex];
     question.innerHTML = currentQuestion.question;
-
-        // Remove highlighting from previous question's answer choices
-        choices.forEach((choice) => {
-            choice.parentElement.classList.remove('correct', 'incorrect');
-        });
-
+  
+    // Remove highlighting from previous question's answer choices
     choices.forEach((choice) => {
-        const number = choice.dataset['number'];
-        choice.innerHTML = currentQuestion['choice' + number];
+      choice.parentElement.classList.remove('correct', 'incorrect');
     });
-
+  
+    choices.forEach((choice) => {
+      const number = choice.dataset['number'];
+      choice.innerHTML = currentQuestion['choice' + number];
+    });
+  
     availableQuesions.splice(questionIndex, 1);
     acceptingAnswers = true;
-};
+  };
 
 choices.forEach((choice) => {
     choice.addEventListener('click', (e) => {
@@ -93,13 +96,13 @@ choices.forEach((choice) => {
         const classToApply =
             selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
-            if (classToApply === 'correct') {
-                incrementScore(CORRECT_BONUS);
-                 // Play the correct sound
-                 correctSound.play();
-            } else {
-                 // Play the wrong sound
-                 wrongSound.play();
+        if (classToApply === 'correct') {
+            incrementScore(CORRECT_BONUS);
+             // Play the correct sound
+             correctSound.play();
+        } else {
+             // Play the wrong sound
+             wrongSound.play();
             // Highlight the correct answer if the selected answer is wrong
             const correctChoice = choices.find(
                 (choice) => choice.dataset['number'] == currentQuestion.answer
@@ -111,7 +114,8 @@ choices.forEach((choice) => {
 
         // Show the "Next Question" button after a short delay
         setTimeout(() => {
-            document.getElementById('nextBtn').classList.remove('hidden');
+            const elements = document.querySelectorAll('#nextBtn, #explainBtn');
+            elements.forEach(element => element.classList.remove('hidden'));
         }, 1000);
     });
 });
@@ -122,7 +126,21 @@ incrementScore = (num) => {
 };
 
 document.getElementById('nextBtn').addEventListener('click', () => {
-    document.getElementById('nextBtn').classList.add('hidden');
+    const elements = document.querySelectorAll('#nextBtn, #explainBtn');
+            elements.forEach(element => element.classList.add('hidden'));
+
+    // Unhide the choice containers
+    const choiceContainers = document.querySelectorAll('.choice-container');
+    choiceContainers.forEach((container) => {
+      container.style.display = 'flex'; // Change display style to 'flex' or 'block', as needed
+    });
+
+    // Remove the current explanation element
+    if (currentExplanationElement) {
+        currentExplanationElement.remove();
+        currentExplanationElement = null; // Reset the reference
+    }
+
     getNewQuestion();
 });
 
@@ -136,3 +154,50 @@ const quitGame = () => {
 
 // Add a click event listener to the quit button
 document.getElementById('quitBtn').addEventListener('click', quitGame);
+
+// Add an event listener to the "Explain" button
+document.getElementById('explainBtn').addEventListener('click', () => {
+    // Show the explanation
+    showExplanation();
+  });
+
+  let currentExplanationElement = null;
+
+  showExplanation = () => {
+ // Remove any previous explanation element, if exists
+ if (currentExplanationElement) {
+  currentExplanationElement.remove();
+}
+
+// Get the explanation from the currentQuestion object
+const explanation = currentQuestion.explanation;
+
+// Create a new h3 element to hold the explanation
+const explanationElement = document.createElement('h3');
+explanationElement.textContent = explanation; // Use textContent to set the content
+explanationElement.style.display = 'block'; // Set the display to its default value
+
+// Set an ID to the explanation element for easy removal
+explanationElement.id = 'explanationElement';
+
+// Append the explanation element below the question
+const questionContainer = document.getElementById('question').parentElement;
+questionContainer.insertBefore(explanationElement, document.getElementById('nextBtn'));
+
+// Hide the choice containers
+const choiceContainers = document.querySelectorAll('.choice-container');
+choiceContainers.forEach((container) => {
+  container.style.display = 'none';
+});
+
+// Hide the "Explain" button
+document.getElementById('explainBtn').classList.add('hidden');
+
+// Store the reference to the current explanation element
+currentExplanationElement = explanationElement;
+
+setTimeout(() => {
+  document.getElementById('nextBtn').classList.remove('hidden');
+}, 1000); // Adjust the delay (in milliseconds) as needed
+};
+  

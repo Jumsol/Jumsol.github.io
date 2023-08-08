@@ -7,7 +7,8 @@
         "3": "Dependable",
         "4": "Inclined"
       },
-      "answer": "4"
+      "answer": "4",
+      "explanation": "Explanation for Question 1."
     },
     {
       "question": "The lotto winners will be selected at RANDOM",
@@ -17,7 +18,8 @@
         "3": "By testing",
         "4": "By interviewing"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "If you are AMBIVALENT with the answers, analyze the given problem",
@@ -27,7 +29,8 @@
         "3": "Uncertain",
         "4": "Unaware"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Cleanliness is still AT A DISCOUNT in many parts of the country",
@@ -37,7 +40,8 @@
         "3": "Attended to",
         "4": "Believed"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "My mother is always ADAMANT in eating breakfast before leaving the house",
@@ -47,7 +51,8 @@
         "3": "Forgetful",
         "4": "Clueless"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "He left the country because of the OMINOUS experience he had in the past.",
@@ -57,7 +62,8 @@
         "3": "Ugly",
         "4": "Remarkable"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Reading words without understanding their meaning is FUTILE.",
@@ -67,7 +73,8 @@
         "3": "Unnecessary",
         "4": "Avoidable"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Mr. Henry Sy is now ROLLING IN MONEY.",
@@ -77,7 +84,8 @@
         "3": "Losing money",
         "4": "Successful in business"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "CARRY on with your work.",
@@ -87,7 +95,8 @@
         "3": "Stop",
         "4": "Be on time"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "She wears gold but people knows how OSTENTATIOUS she can be.",
@@ -97,7 +106,8 @@
         "3": "Gorgeous",
         "4": "Rebellious"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Reynan is the APPLE OF HIS MOTHER'S EYE.",
@@ -107,7 +117,8 @@
         "3": "Always watched",
         "4": "Pride"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "He got the money to fund his checks in the bank at the ELEVENTH HOUR.",
@@ -117,7 +128,8 @@
         "3": "Just in time",
         "4": "11th hour of the day"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "He submitted a GROTESQUE artwork that nobody in the class could relate to.",
@@ -127,7 +139,8 @@
         "3": "Beautiful",
         "4": "Colorful"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "She is generous to a FAULTH.",
@@ -137,7 +150,8 @@
         "3": "Rarely",
         "4": "Infrequent"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Thier CLANDESTINE affair remained unknown for three years.",
@@ -147,7 +161,8 @@
         "3": "Secret",
         "4": "Unacceptable"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The marketing officers were asked to GO OVER  the figures in their reports before the conference.",
@@ -157,7 +172,8 @@
         "3": "Revise",
         "4": "Review"
       },
-      "answer": "4"
+      "answer": "4",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Business, like life, is much too extensive and LIQUESCENT to be wholly contained by any checklist, formula theory.",
@@ -167,7 +183,8 @@
         "3": "Complicated",
         "4": "Shapeless"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "We were forced to POSTPONE the meeting.",
@@ -177,7 +194,8 @@
         "3": "Delay",
         "4": "Do without"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "PitPit is repulsive and rebellious. She always speaks SORDID words",
@@ -187,7 +205,8 @@
         "3": "Weired",
         "4": "Bizarre"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "PUNCTUALITY is imposed in this office",
@@ -197,7 +216,8 @@
         "3": "Being on time",
         "4": "Being efficient"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Every time i see Cathy looking at me, I feel EUPHORIA in my bones.",
@@ -207,17 +227,19 @@
         "3": "Erotic",
         "4": "Numb"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
-      "question": "Rexklessness always entails JEOPARDY.",
+      "question": "Recklessness always entails JEOPARDY.",
       "choices": {
         "1": "Danger",
         "2": "Crisis",
         "3": "Aprrehension",
         "4": "Control"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Jumryl RESOLVED to act more wisely next time",
@@ -227,7 +249,8 @@
         "3": "Decided",
         "4": "Consented"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "I brought this book because when I read the BLURB at the back, I fell in love with it.",
@@ -237,7 +260,8 @@
         "3": "Blog",
         "4": "Plot"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The woman reported that the diamonds snatched from here were GENUINE.",
@@ -247,7 +271,8 @@
         "3": "Imitations",
         "4": "Synthetic"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Sanctuaries for wildlife have DWINDLED alarmingly in the last decade",
@@ -257,7 +282,8 @@
         "3": "Decreased",
         "4": "Multiplied"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Finding a way out of the LABYRINTH is the last challenge of the competition.",
@@ -267,7 +293,8 @@
         "3": "Maze",
         "4": "Box"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Myla loves to eat a PRODIGIOUS amout of home-made bread.",
@@ -277,7 +304,8 @@
         "3": "Huge",
         "4": "Slight"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "There is still love in our hearts amidst our seemingly MUNDANE existence.",
@@ -287,7 +315,8 @@
         "3": "Wordly",
         "4": "Wealthy"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Paramillion Inc. and Reynan's Printing are going to MERGE by the middle of the year.",
@@ -297,7 +326,8 @@
         "3": "Expand",
         "4": "Divide into two"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Faith has a strong PENCHANT in collecting cars.",
@@ -307,7 +337,8 @@
         "3": "Hobby",
         "4": "Route"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The recommendation of the wage council is REPUGNANT to the employers.",
@@ -317,7 +348,8 @@
         "3": "Beneficial",
         "4": "Degrading"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "It is FUTILE to argue with the boss once he has made up his mind.",
@@ -327,7 +359,8 @@
         "3": "Hopeful",
         "4": "Encouraging"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Diskettes and CDs are going OBSOLETE",
@@ -337,7 +370,8 @@
         "3": "Updated",
         "4": "Outdated"
       },
-      "answer": "4"
+      "answer": "4",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "One SYMPTOM of H-fever is nose-bleeding.",
@@ -347,7 +381,8 @@
         "3": "Sign",
         "4": "Pain"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The Queen of the Night dances VIVACIOUSLY.",
@@ -357,7 +392,8 @@
         "3": "Kindly",
         "4": "Sweetly"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The baffled owner ACQUIESCED to the worker's demands.",
@@ -367,7 +403,8 @@
         "3": "Agreed",
         "4": "Resisted"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The post is TITLED; please straighten it.",
@@ -377,7 +414,8 @@
         "3": "Adjustable",
         "4": "Level"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The court released a DOGMATIC statement that made people more hopeful.",
@@ -387,7 +425,8 @@
         "3": "Assertive",
         "4": "Unclear"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The union's GRIEVANCE committee met with the school directors to protest the teacher's dismissal.",
@@ -397,7 +436,8 @@
         "3": "Scholarship",
         "4": "Complaint"
       },
-      "answer": "4"
+      "answer": "4",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "This generation is prone to PLETHORIC use of mobile gadgets.",
@@ -407,7 +447,8 @@
         "3": "Important",
         "4": "Excessive"
       },
-      "answer": "4"
+      "answer": "4",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Pilo's insensitivity has created ANIMOSITY to the worker's demand.",
@@ -417,7 +458,8 @@
         "3": "Fear",
         "4": "Distance"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "A CONSCIENTIOUS teacher spends hours preparing lesson plans and computing student's grades.",
@@ -427,7 +469,8 @@
         "3": "Proficient",
         "4": "Efficient"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "I am usually HAPHAZARD in composing my poetry but they turn out so well anyway.",
@@ -437,7 +480,8 @@
         "3": "Puzzled",
         "4": "Strategic"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "His boss appeared to be in an AFFABLE mood that Albert decided to ask a raise.",
@@ -447,7 +491,8 @@
         "3": "Courteous",
         "4": "Uncertain"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Three authors COLLABORATED in preparing this book.",
@@ -457,7 +502,8 @@
         "3": "Communak",
         "4": "Contribute"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The DPWH secretary obeyed the president's order in a COMPLAISANT manner.",
@@ -467,7 +513,8 @@
         "3": "Complaint",
         "4": "Making up for"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Ang mag magbubukid ay NABIHASA sa paggamit ng kalabaw bilang katulong nila sa pagsasaka.",
@@ -477,7 +524,8 @@
         "3": "Nasanay",
         "4": "Natuto"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Mrs. Leny Ngo cannot keep her COMPLICITY in this affair secret very long.",
@@ -487,7 +535,8 @@
         "3": "Comprise",
         "4": "Conspiracy"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The search for a CONSORT for the heiress of the throne ended happily.",
@@ -497,7 +546,8 @@
         "3": "Husband",
         "4": "Prince"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Miss Sabina's employer offered to DEFRAY the cost of her trip to Hong Kong.",
@@ -507,7 +557,8 @@
         "3": "Turn side",
         "4": "Reduce"
       },
-      "answer": "4"
+      "answer": "4",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The Defence presented its case to the jury in a TRENCHANT manner.",
@@ -517,7 +568,8 @@
         "3": "Vague",
         "4": "Cautious"
       },
-      "answer": "4"
+      "answer": "4",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "The Saudi Arabian Government DECAPITATED three criminals in march, 1996.",
@@ -527,7 +579,8 @@
         "3": "Beheaded",
         "4": "Release"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Japanese CUISINE is now famous in Manila.",
@@ -537,7 +590,8 @@
         "3": "Restaurant",
         "4": "Style of cooking"
       },
-      "answer": "4"
+      "answer": "4",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "A special group in the police force is believed to be engaged in FURTIVE activities.",
@@ -547,7 +601,8 @@
         "3": "Outstanding",
         "4": "Ineffective"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Dr. Reynan prescribes MASSIVE doses of antibiotics for his patients with tuberculosis.",
@@ -557,7 +612,8 @@
         "3": "Heavy",
         "4": "Encourage"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "Ang PAGAL na guro ay sandaling tumigil bago muling nagpatuloy sa pagsasalita.",
@@ -567,7 +623,8 @@
         "3": "Pihikan",
         "4": "Mabagal"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "ACUMEN of a genius.",
@@ -577,7 +634,8 @@
         "3": "Keeness",
         "4": "Abuse"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "HOMOGENEOUS parts.",
@@ -587,7 +645,8 @@
         "3": "Mixed",
         "4": "Tight"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "GARRULOUS statement.",
@@ -597,7 +656,8 @@
         "3": "Inconsistent",
         "4": "Greed"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "LUSTROUS lips.",
@@ -607,7 +667,8 @@
         "3": "Colorful",
         "4": "Shining"
       },
-      "answer": "4"
+      "answer": "4",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "EXORBITANT price.",
@@ -617,7 +678,8 @@
         "3": "Unreasonable",
         "4": "Uneasy"
       },
-      "answer": "3"
+      "answer": "3",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "ABRUPT action.",
@@ -627,7 +689,8 @@
         "3": "Delayed",
         "4": "Advanced"
       },
-      "answer": "2"
+      "answer": "2",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "CONTROVERSIAL issue",
@@ -637,7 +700,8 @@
         "3": "Faultfinding",
         "4": "Debatable"
       },
-      "answer": "4"
+      "answer": "4",
+      "explanation": "This is a test to test is to test"
     },
     {
       "question": "When Lea was asked to sing, she did not FALTER.",
@@ -647,6 +711,7 @@
         "3": "Give-in",
         "4": "Go-on"
       },
-      "answer": "1"
+      "answer": "1",
+      "explanation": "This is a test to test is to test"
     }
   ]
