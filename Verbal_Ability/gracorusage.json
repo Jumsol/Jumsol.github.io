@@ -1,372 +1,602 @@
 [
     {
-      "question": "Tdgsgsdafghdsfgsdfg",
+      "question": "Cluther received special favor ___ she should be thankful.",
       "choices": {
-        "1": "Flexible",
-        "2": "Inspired",
-        "3": "Dependable",
-        "4": "Inclined"
+        "1": "to whom",
+        "2": "for which",
+        "3": "in which",
+        "4": "by which"
       },
-      "answer": "4"
+      "answer": "2"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "None of the boys ___ arrested.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "is",
+          "2": "are",
+          "3": "was",
+          "4": "have"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "None of your work ___ satisfactory.",
+        "choices": {
+          "1": "is",
+          "2": "are",
+          "3": "were",
+          "4": "shall be"
+        },
+        "answer": "1"
+    },
+    {
+        "question": "Magellan's Cross of Cebu can't find it ____",
+        "choices": {
+          "1": "every where",
+          "2": "nowhere",
+          "3": "any where",
+          "4": "anywhere"
         },
         "answer": "4"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "The little boy disagrees ___ his brother.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "to",
+          "2": "in",
+          "3": "with",
+          "4": "for"
+        },
+        "answer": "3"
+    },
+    {
+        "question": "She is angry ___ him.",
+        "choices": {
+          "1": "at",
+          "2": "with",
+          "3": "to",
+          "4": "for"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "___ do you wish to speak to?",
+        "choices": {
+          "1": "who",
+          "2": "whom",
+          "3": "whoever",
+          "4": "whomever"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "Two-thirds of the work ___ finished.",
+        "choices": {
+          "1": "is",
+          "2": "are",
+          "3": "as",
+          "4": "had"
+        },
+        "answer": "1"
+    },
+    {
+        "question": "Please give the food to ___ you think wants it.",
+        "choices": {
+          "1": "whom",
+          "2": "which",
+          "3": "whoever",
+          "4": "whomever"
+        },
+        "answer": "3"
+    },
+    {
+        "question": "Remy ___ the flowers.",
+        "choices": {
+          "1": "sat",
+          "2": "sit",
+          "3": "set",
+          "4": "seated"
+        },
+        "answer": "3"
+    },
+    {
+        "question": "Neither Sol nor Vio ___ interested.",
+        "choices": {
+          "1": "are",
+          "2": "is",
+          "3": "were",
+          "4": "have"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "Mine is not ___ good as yours.",
+        "choices": {
+          "1": "as",
+          "2": "too",
+          "3": "so",
+          "4": "very"
+        },
+        "answer": "3"
+    },
+    {
+        "question": "You, as well as I, ___ to blame.",
+        "choices": {
+          "1": "is",
+          "2": "am",
+          "3": "are",
+          "4": "was"
+        },
+        "answer": "3"
+    },
+    {
+        "question": "JUMRYLA de la SOLIVIAN, ___ you called is here.",
+        "choices": {
+          "1": "who",
+          "2": "whom",
+          "3": "which",
+          "4": "that"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "I thought you were ___ .",
+        "choices": {
+          "1": "them",
+          "2": "their",
+          "3": "themselves",
+          "4": "they"
         },
         "answer": "4"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "Leonardo and ___ will attend the conference.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "me",
+          "2": "myself",
+          "3": "mine",
+          "4": "I"
         },
         "answer": "4"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "I wish I ___ going.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "am",
+          "2": "was",
+          "3": "were",
+          "4": "shall be"
         },
         "answer": "4"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "Borjack is ___ in a dispute.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "uninterested",
+          "2": "disinterested",
+          "3": "noninterested",
+          "4": "interestedless"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "Half of the raw materials ___ missing from the warehouse.",
+        "choices": {
+          "1": "is",
+          "2": "are",
+          "3": "was",
+          "4": "has been"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "I, your best friend, ___ ready to assist you.",
+        "choices": {
+          "1": "is",
+          "2": "are",
+          "3": "shall be",
+          "4": "am"
         },
         "answer": "4"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "It ___ since this morning.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "was raining",
+          "2": "rains",
+          "3": "has been raining",
+          "4": "had been raining"
         },
         "answer": "4"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "Those mangoes are ___ sweet.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "mighty",
+          "2": "very",
+          "3": "awfully",
+          "4": "tremendously"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "___ are difficult to understand.",
+        "choices": {
+          "1": "mothers-in-law",
+          "2": "mother-in-laws",
+          "3": "mothers-in-laws",
+          "4": "mothers in law"
+        },
+        "answer": "1"
+    },
+    {
+        "question": "Did you invite Dr. S. JUM and ___ to the annual fiesta celebration of St. Florian?",
+        "choices": {
+          "1": "we",
+          "2": "us",
+          "3": "ourselves",
+          "4": "ours"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The cook added two ___ of salt to the soup.",
+        "choices": {
+          "1": "spoon fulls",
+          "2": "spoons full",
+          "3": "spoonfuls",
+          "4": "spoonsful"
         },
         "answer": "4"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "Most university students ___ on campus in their first year.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "Lives",
+          "2": "Living",
+          "3": "Live",
+          "4": "are living"
+        },
+        "answer": "3"
+    },
+    {
+        "question": " From this graph we can see that the economy ___ at the moment.",
+        "choices": {
+          "1": "improves",
+          "2": "Improve",
+          "3": "improving",
+          "4": "is improving"
         },
         "answer": "4"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": " They ___ personal computers when my father was a student.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "hadn't",
+          "2": "didn't have",
+          "3": "not having",
+          "4": "weren't having"
+        },
+        "answer": "2"
+    },
+    {
+        "question": " I ___ want to be a practicing doctor but now I'm more interested in research.",
+        "choices": {
+          "1": "was used to",
+          "2": "used to",
+          "3": "would",
+          "4": "will would"
+        },
+        "answer": "2"
+    },
+    {
+        "question": "The teacher ___ us how to do the experiment when the fire bell rang.",
+        "choices": {
+          "1": "Showed",
+          "2": "shown",
+          "3": "will showing",
+          "4": "was showing"
         },
         "answer": "4"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": " I finished my essay yesterday but ___ it in to the tutor yet.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "I'ved given",
+          "2": "I haven't given",
+          "3": "I didn't give",
+          "4": "I not gives"
         },
-        "answer": "4"
+        "answer": "2"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "___ the experiment three times now with different results each time!",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "We've done",
+          "2": "We did",
+          "3": "We've been doing",
+          "4": "We've did"
         },
-        "answer": "4"
+        "answer": "1"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": " When I arrived the lecture ___ ,So I didn’t find it easy to follow.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "started",
+          "2": "had started",
+          "3": "had been starting",
+          "4": "been start"
         },
-        "answer": "4"
+        "answer": "2"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "She ___ well at school but that changed when she became friends with a different group of girls.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "did",
+          "2": "had done",
+          "3": "had been doing",
+          "4": "did done"
         },
-        "answer": "4"
+        "answer": "3"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "___ the doctor at 2.00 this afternoon so I can’t go to the lecture.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "I'm seeing",
+          "2": "I see",
+          "3": "I will see",
+          "4": "I saw"
         },
-        "answer": "4"
+        "answer": "1"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": " My sister ___ economics and politics when she goes to university.",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "is going to study",
+          "2": "studies",
+          "3": "will study",
+          "4": "siww do study"
         },
-        "answer": "4"
+        "answer": "1"
     },
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
+      "question": " If the trend continues, the average income ___ by 107% by 2020.",
+      "choices": {
+        "1": "Will increase",
+        "2": "will have increased",
+        "3": "will be increasing",
+        "4": "will be increase"
+      },
+      "answer": "2"
+  },
+  {
+    "question": "You can base your geography assignment on ___ country — it doesn’t matter which.",
+    "choices": {
+      "1": "a",
+      "2": "some",
+      "3": "the",
+      "4": "any"
     },
+    "answer": "4"
+},
+{
+  "question": "There aren’t ___ places left on the course so you’d better apply soon.",
+  "choices": {
+    "1": "much",
+    "2": "many",
+    "3": "lots of",
+    "4": "googol"
+  },
+  "answer": "2"
+},
+{
+  "question": " I don’t know whether to accept the job offer. It’s ___ .",
+  "choices": {
+    "1": "a difficult decision",
+    "2": "the difficult decision",
+    "3": "difficult decision",
+    "4": "difficult to decide"
+  },
+  "answer": "1"
+},
+{
+  "question": "For those of you new to the company, this leaflet is full of ___",
+  "choices": {
+    "1": "a valuable information",
+    "2": "the valuable information",
+    "3": "valuable information",
+    "4": "it's a valuable information"
+  },
+  "answer": "3"
+},
+{
+  "question": " The manager interviewed ___ candidates in turn.",
+  "choices": {
+    "1": "each of the",
+    "2": "each",
+    "3": "every",
+    "4": "each every"
+  },
+  "answer": "1"
+},
+{
+  "question": " I know it’s not much of a present but I made it ___",
+  "choices": {
+    "1": "me",
+    "2": "myself",
+    "3": "by myself",
+    "4": "myselves"
+  },
+  "answer": "2"
+},
+{
+  "question": "You should visit Bath. It’s ___ city",
+  "choices": {
+    "1": "a historical and interesting",
+    "2": "a historical interesting",
+    "3": "an interesting historical",
+    "4": "the interesting historical"
+  },
+  "answer": "3"
+},
+{
+  "question": "The government has released some ___ data showing how schools are not providing an adequate education to our children.",
+  "choices": {
+    "1": "shocking",
+    "2": "shoked",
+    "3": "shock",
+    "4": "shocks"
+  },
+  "answer": "1"
+},
+{
+  "question": " You really should go to Namibia. The scenery is ___ Stunning and the people are very friendly.",
+  "choices": {
+    "1": "very",
+    "2": "fairly",
+    "3": "absolutely",
+    "4": "nice"
+  },
+  "answer": "43"
+},
+{
+  "question": " This factory produces some of ___ cameras in the world.",
+  "choices": {
+    "1": "best",
+    "2": "the best",
+    "3": "the most best",
+    "4": "the very best"
+  },
+  "answer": "2"
+},
+{
+  "question": "___  People live in the countryside than 100 years ago.",
+  "choices": {
+    "1": "Less",
+    "2": "Few",
+    "3": "Fewer",
+    "4": "Less than"
+  },
+  "answer": "3"
+},
+{
+  "question": "The bookshop ___ the end of the road is excellent.",
+  "choices": {
+    "1": "at",
+    "2": "on",
+    "3": "in",
+    "4": "that"
+  },
+  "answer": "1"
+},
+{
+  "question": "There were millions of people around the world ___ the football match live on television.",
+  "choices": {
+    "1": "watched",
+    "2": "watching",
+    "3": "were watching",
+    "4": "was watching"
+  },
+  "answer": "2"
+},
+{
+  "question": "Scientists finally ____ find a cure for the disease after years of research.",
+  "choices": {
+    "1": "managed to",
+    "2": "can",
+    "3": "could",
+    "4": "would"
+  },
+  "answer": "1"
+},
+{
+  "question": " She got a terrible mark in the exam so She ___ very hard at all.",
+  "choices": {
+    "1": "mustn't have worked",
+    "2": "cant't have worked",
+    "3": "didn't work",
+    "4": "was not working"
+  },
+  "answer": "2"
+},
+{
+  "question": "What ___ in order to get a permit to work in your country?",
+  "choices": {
+    "1": "do i need to do",
+    "2": "must i do",
+    "3": "ought i do",
+    "4": "need to do"
+  },
+  "answer": "1"
+},
+{
+  "question": "When you write your essays you ___ copy ideas from books without referencing them properly.",
+  "choices": {
+    "1": "mustn't",
+    "2": "don't have to",
+    "3": "have to",
+    "4": "will have to"
+  },
+  "answer": "1"
+},
+{
+  "question": " Doctors have ___ us to cut down on salt in our diets if we want to reduce the risk of getting heart disease.",
+  "choices": {
+    "1": "insisted",
+    "2": "suggested",
+    "3": "advised",
+    "4": "introduced"
+  },
+  "answer": "3"
+},
+{
+  "question": "___ this newspaper report, more women smoke than men nowadays.",
+  "choices": {
+    "1": "Aparrently",
+    "2": "According to",
+    "3": "Dependable",
+    "4": "Sopposedly"
+  },
+  "answer": "2"
+},
+{
+  "question": "What will you do if ___",
+  "choices": {
+    "1": "you don’t get a good  CSC score?",
+    "2": "you didn’t get a good CSC score?",
+    "3": "you will not get a good CSC score?",
+    "4": "you won’t get a good CSC score?"
+  },
+  "answer": "1"
+},
+{
+  "question": "My parents encouraged ___ this course.",
+  "choices": {
+    "1": "me to do",
+    "2": "me doing",
+    "3": "me do",
+    "4": "me to doing"
+  },
+  "answer": "1"
+},
+{
+  "question": " I wish that man ___ tapping his fingers on the table. It’s really annoying me.",
+  "choices": {
+    "1": "stopped",
+    "2": "had stopped",
+    "3": "would stop",
+    "4": "can stopped"
+  },
+  "answer": "3"
+},
     {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
+        "question": "While we’re working on the project our boss ___ on a beach in Greece!",
         "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
+          "1": "will sit",
+          "2": "will have sat",
+          "3": "will be sitting",
+          "4": "will sit"
         },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
-    },
-    {
-        "question": "sgsfgsdfgadfsgdsfgdfg",
-        "choices": {
-          "1": "Flexible",
-          "2": "Inspired",
-          "3": "Dependable",
-          "4": "Inclined"
-        },
-        "answer": "4"
+        "answer": "3"
       }
 ]
