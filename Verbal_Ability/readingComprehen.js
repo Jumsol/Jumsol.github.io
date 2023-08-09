@@ -1,4 +1,5 @@
 const question = document.getElementById('question');
+const question2 = document.getElementById('question2');
 const choices = Array.from(document.getElementsByClassName('choice-text'));
 const progressText = document.getElementById('progressText');
 const scoreText = document.getElementById('score');
@@ -20,6 +21,7 @@ fetch('/Verbal_Ability/readingcomp.json')
     questions = loadedQuestions.map((loadedQuestion) => {
       const formattedQuestion = {
         question: loadedQuestion.question,
+        question2: loadedQuestion.question2,
       };
 
       const answerChoices = Object.values(loadedQuestion.choices);
@@ -40,7 +42,7 @@ fetch('/Verbal_Ability/readingcomp.json')
 
 //CONSTANTS
 const CORRECT_BONUS = 1;
-const MAX_QUESTIONS = 50;
+const MAX_QUESTIONS = 12;
 
 startGame = () => {
     questionCounter = 0;
@@ -53,32 +55,45 @@ startGame = () => {
     wrongSound = document.getElementById('wrongSound');
 };
 
+let currentQuestionIndex = 0;
+
 getNewQuestion = () => {
     if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
-        //go to the end page
+        // Go to the end page
         return window.location.assign('/end.html');
     }
+
+    currentQuestion = availableQuesions[currentQuestionIndex];
+    currentQuestionIndex++;
+
+    // Restarts the question index when all questions have been shown
+    if (currentQuestionIndex >= availableQuesions.length) {
+        currentQuestionIndex = 0;
+    }
+
     questionCounter++;
     progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
-    //Update the progress bar
+    
+    // Update the progress bar
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
-    const questionIndex = Math.floor(Math.random() * availableQuesions.length);
-    currentQuestion = availableQuesions[questionIndex];
+    // Clear previous answer choices highlighting
+    choices.forEach((choice) => {
+        choice.parentElement.classList.remove('correct', 'incorrect');
+    });
+
+    // Update question texts
     question.innerHTML = currentQuestion.question;
+    question2.innerHTML = currentQuestion.question2;
 
-        // Remove highlighting from previous question's answer choices
-        choices.forEach((choice) => {
-            choice.parentElement.classList.remove('correct', 'incorrect');
-        });
-
+    // Update answer choices
     choices.forEach((choice) => {
         const number = choice.dataset['number'];
         choice.innerHTML = currentQuestion['choice' + number];
     });
 
-    availableQuesions.splice(questionIndex, 1);
+    // Rest of the function remains the same
     acceptingAnswers = true;
 };
 
