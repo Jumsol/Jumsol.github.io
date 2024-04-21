@@ -1,162 +1,402 @@
 [
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+  {
+    "question": "What is the next number in the series: 2, 6, 12, 20, ...?",
+    "choices": {
+      "1": "28",
+      "2": "30",
+      "3": "32",
+      "4": "36"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "If all cats are mammals and some mammals are dogs, what can you conclude?",
+    "choices": {
+      "1": "All cats are dogs.",
+      "2": "All dogs are mammals.",
+      "3": "Some dogs are cats.",
+      "4": "All mammals are cats."
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "If some buses are red and all red things are vehicles, what must be true?",
+    "choices": {
+      "1": "All vehicles are buses.",
+      "2": "Some vehicles are buses.",
+      "3": "All buses are vehicles.",
+      "4": "Some vehicles are red."
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "Which shape comes next in the pattern: square, circle, triangle, square, circle, ...?",
+    "choices": {
+      "1": "Triangle",
+      "2": "Circle",
+      "3": "Square",
+      "4": "Pentagon"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "If all A's are B's and all B's are C's, what can you conclude?",
+    "choices": {
+      "1": "All A's are C's.",
+      "2": "Some A's are C's.",
+      "3": "Some C's are A's.",
+      "4": "All C's are B's."
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "What is the missing number in the sequence: 5, 10, 20, 40, ...?",
+    "choices": {
+      "1": "60",
+      "2": "80",
+      "3": "100",
+      "4": "120"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4"
+  },
+  {
+    "question": "If some apples are fruits and all fruits are healthy, what must be true?",
+    "choices": {
+      "1": "All apples are healthy.",
+      "2": "Some apples are healthy.",
+      "3": "All healthy things are apples.",
+      "4": "Some healthy things are fruits."
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Which word does not belong in the following group: apple, orange, banana, tomato?",
+    "choices": {
+      "1": "Apple",
+      "2": "Orange",
+      "3": "Banana",
+      "4": "Tomato"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4"
+  },
+  {
+    "question": "What is the missing number in the sequence: 3, 6, 9, 12, ...?",
+    "choices": {
+      "1": "15",
+      "2": "16",
+      "3": "18",
+      "4": "21"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4"
+  },
+  {
+    "question": "If some birds can fly and all eagles are birds, what can you conclude?",
+    "choices": {
+      "1": "All birds can fly.",
+      "2": "Some eagles can fly.",
+      "3": "All eagles can fly.",
+      "4": "Some birds are eagles."
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "Which shape is different from the others: square, triangle, circle, hexagon?",
+    "choices": {
+      "1": "Square",
+      "2": "Triangle",
+      "3": "Circle",
+      "4": "Hexagon"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "If all lions are cats and some cats are pets, what must be true?",
+    "choices": {
+      "1": "All lions are pets.",
+      "2": "Some lions are pets.",
+      "3": "All pets are lions.",
+      "4": "Some pets are lions."
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4"
+  },
+  {
+    "question": "What comes next in the sequence: 1, 4, 9, 16, ...?",
+    "choices": {
+      "1": "25",
+      "2": "36",
+      "3": "49",
+      "4": "64"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "If some roses are red and all red things are flowers, what can you conclude?",
+    "choices": {
+      "1": "All roses are flowers.",
+      "2": "Some roses are flowers.",
+      "3": "All flowers are roses.",
+      "4": "Some flowers are red."
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Which letter comes next in the series: A, C, E, G, ...?",
+    "choices": {
+      "1": "H",
+      "2": "I",
+      "3": "J",
+      "4": "K"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
-    }
+    "answer": "2"
+  },
+  {
+    "question": "If all teachers are educators and some educators are researchers, what can you conclude?",
+    "choices": {
+      "1": "All teachers are researchers.",
+      "2": "Some teachers are researchers.",
+      "3": "All researchers are teachers.",
+      "4": "Some researchers are teachers."
+    },
+    "answer": "4"
+  },
+  {
+    "question": "What is the missing number in the sequence: 10, 20, 30, 40, ...?",
+    "choices": {
+      "1": "45",
+      "2": "50",
+      "3": "55",
+      "4": "60"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "If all dogs are animals and some animals are mammals, what can you conclude?",
+    "choices": {
+      "1": "All mammals are dogs.",
+      "2": "Some dogs are mammals.",
+      "3": "All dogs are mammals.",
+      "4": "Some mammals are dogs."
+    },
+    "answer": "3"
+  },
+  {
+    "question": "Which shape is different from the others: rectangle, triangle, circle, pentagon?",
+    "choices": {
+      "1": "Rectangle",
+      "2": "Triangle",
+      "3": "Circle",
+      "4": "Pentagon"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "If some books are novels and all novels are stories, what must be true?",
+    "choices": {
+      "1": "All books are stories.",
+      "2": "Some books are stories.",
+      "3": "All stories are books.",
+      "4": "Some stories are novels."
+    },
+    "answer": "2"
+  },
+  {
+    "question": "What comes next in the sequence: 2, 4, 8, 16, ...?",
+    "choices": {
+      "1": "20",
+      "2": "24",
+      "3": "32",
+      "4": "64"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "If some clouds are white and all white things are cotton, what can you conclude?",
+    "choices": {
+      "1": "All clouds are cotton.",
+      "2": "Some clouds are cotton.",
+      "3": "All cotton are clouds.",
+      "4": "Some cotton are white."
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Which letter comes next in the series: B, D, F, H, ...?",
+    "choices": {
+      "1": "I",
+      "2": "J",
+      "3": "K",
+      "4": "L"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "If all cars are vehicles and some vehicles are trucks, what can you conclude?",
+    "choices": {
+      "1": "All trucks are vehicles.",
+      "2": "Some trucks are vehicles.",
+      "3": "All vehicles are trucks.",
+      "4": "Some vehicles are cars."
+    },
+    "answer": "2"
+  },
+  {
+    "question": "What is the missing number in the sequence: 4, 9, 16, 25, ...?",
+    "choices": {
+      "1": "30",
+      "2": "36",
+      "3": "42",
+      "4": "49"
+    },
+    "answer": "4"
+  },
+  {
+    "question": "If all apples are fruits and some fruits are bananas, what can you conclude?",
+    "choices": {
+      "1": "All apples are bananas.",
+      "2": "Some apples are bananas.",
+      "3": "All bananas are apples.",
+      "4": "Some bananas are fruits."
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Which shape is different from the others: square, triangle, circle, octagon?",
+    "choices": {
+      "1": "Square",
+      "2": "Triangle",
+      "3": "Circle",
+      "4": "Octagon"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "If some students are athletes and all athletes are strong, what must be true?",
+    "choices": {
+      "1": "All students are strong.",
+      "2": "Some students are strong.",
+      "3": "All strong people are students.",
+      "4": "Some strong people are athletes."
+    },
+    "answer": "4"
+  },
+  {
+    "question": "What comes next in the sequence: 3, 6, 12, 24, ...?",
+    "choices": {
+      "1": "36",
+      "2": "48",
+      "3": "60",
+      "4": "72"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "If some trees are green and all green things are plants, what can you conclude?",
+    "choices": {
+      "1": "All trees are plants.",
+      "2": "Some trees are plants.",
+      "3": "All plants are trees.",
+      "4": "Some plants are green."
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Which letter comes next in the series: K, M, O, Q, ...?",
+    "choices": {
+      "1": "R",
+      "2": "S",
+      "3": "T",
+      "4": "U"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "If all pens are writing tools and some writing tools are markers, what can you conclude?",
+    "choices": {
+      "1": "All markers are writing tools.",
+      "2": "Some markers are writing tools.",
+      "3": "All writing tools are markers.",
+      "4": "Some writing tools are pens."
+    },
+    "answer": "4"
+  },
+  {
+    "question": "What is the missing number in the sequence: 7, 14, 21, 28, ...?",
+    "choices": {
+      "1": "35",
+      "2": "42",
+      "3": "49",
+      "4": "56"
+    },
+    "answer": "4"
+  },
+  {
+    "question": "If all roses are flowers and some flowers are red, what can you conclude?",
+    "choices": {
+      "1": "All roses are red.",
+      "2": "Some roses are red.",
+      "3": "All red things are roses.",
+      "4": "Some red things are flowers."
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Which shape is different from the others: square, triangle, circle, rhombus?",
+    "choices": {
+      "1": "Square",
+      "2": "Triangle",
+      "3": "Circle",
+      "4": "Rhombus"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "If some phones are smartphones and all smartphones are devices, what must be true?",
+    "choices": {
+      "1": "All phones are devices.",
+      "2": "Some phones are devices.",
+      "3": "All devices are phones.",
+      "4": "Some devices are smartphones."
+    },
+    "answer": "4"
+  },
+  {
+    "question": "What comes next in the sequence: 2, 5, 10, 17, ...?",
+    "choices": {
+      "1": "22",
+      "2": "24",
+      "3": "28",
+      "4": "33"
+    },
+    "answer": "4"
+  },
+  {
+    "question": "If some cars are red and all red things are vehicles, what can you conclude?",
+    "choices": {
+      "1": "All cars are vehicles.",
+      "2": "Some cars are vehicles.",
+      "3": "All vehicles are cars.",
+      "4": "Some vehicles are red."
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Which letter comes next in the series: W, U, R, O, ...?",
+    "choices": {
+      "1": "K",
+      "2": "H",
+      "3": "E",
+      "4": "B"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "If all dogs are mammals and some mammals are pets, what can you conclude?",
+    "choices": {
+      "1": "All dogs are pets.",
+      "2": "Some dogs are pets.",
+      "3": "All pets are dogs.",
+      "4": "Some pets are mammals."
+    },
+    "answer": "2"
+  }
 ]

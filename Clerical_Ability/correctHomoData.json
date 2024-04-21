@@ -1,162 +1,402 @@
 [
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+  {
+    "question": "Which word completes the sentence correctly? The ___ of the matter is that we need to finish this project by Friday.",
+    "choices": {
+      "1": "Core",
+      "2": "Corps",
+      "3": "Corpse",
+      "4": "Course"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Which word is spelled correctly? ",
+    "choices": {
+      "1": "Piece",
+      "2": "Peice",
+      "3": "Piese",
+      "4": "Peese"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to move quickly'?",
+    "choices": {
+      "1": "Role",
+      "2": "Roe",
+      "3": "Row",
+      "4": "Roal"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "Which word means 'to request'?",
+    "choices": {
+      "1": "Aske",
+      "2": "Ask",
+      "3": "Asque",
+      "4": "Asque"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'a large body of water'?",
+    "choices": {
+      "1": "Sea",
+      "2": "See",
+      "3": "Saw",
+      "4": "Seas"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to send something through the air'?",
+    "choices": {
+      "1": "Threw",
+      "2": "Through",
+      "3": "True",
+      "4": "Threw"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4"
+  },
+  {
+    "question": "Which word means 'to make a mistake'?",
+    "choices": {
+      "1": "Air",
+      "2": "Heir",
+      "3": "Hair",
+      "4": "Err"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4"
+  },
+  {
+    "question": "Which word means 'to pick or choose'?",
+    "choices": {
+      "1": "Chews",
+      "2": "Choose",
+      "3": "Chose",
+      "4": "Chais"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'a period of time'?",
+    "choices": {
+      "1": "Weak",
+      "2": "Week",
+      "3": "Weke",
+      "4": "Wek"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'a type of fruit'?",
+    "choices": {
+      "1": "Pear",
+      "2": "Pair",
+      "3": "Pare",
+      "4": "Payer"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'a container for drinking water'?",
+    "choices": {
+      "1": "Pail",
+      "2": "Pale",
+      "3": "Peel",
+      "4": "Pall"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to create an indentation'?",
+    "choices": {
+      "1": "Mark",
+      "2": "Marque",
+      "3": "Marck",
+      "4": "Mar"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4"
+  },
+  {
+    "question": "Which word means 'a person's written acknowledgment of having received a specified amount of money, goods, etc.'?",
+    "choices": {
+      "1": "Receit",
+      "2": "Receipt",
+      "3": "Receite",
+      "4": "Recet"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'to direct or guide on a course'?",
+    "choices": {
+      "1": "Leed",
+      "2": "Lead",
+      "3": "Led",
+      "4": "Leede"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'to make something easier to do or deal with'?",
+    "choices": {
+      "1": "Facillitate",
+      "2": "Facilitate",
+      "3": "Facile",
+      "4": "Facillity"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
-    }
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'a member of the nobility'?",
+    "choices": {
+      "1": "Lorde",
+      "2": "Lord",
+      "3": "Lourde",
+      "4": "Lor"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'a small piece of paper'?",
+    "choices": {
+      "1": "Not",
+      "2": "Note",
+      "3": "Knot",
+      "4": "Nought"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'to make or become different'?",
+    "choices": {
+      "1": "Change",
+      "2": "Chains",
+      "3": "Chase",
+      "4": "Chane"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to lose one's balance'?",
+    "choices": {
+      "1": "Fall",
+      "2": "Faul",
+      "3": "Fole",
+      "4": "Fawl"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to take a quick look'?",
+    "choices": {
+      "1": "Peek",
+      "2": "Peak",
+      "3": "Peke",
+      "4": "Peekk"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'a story or account of events, experiences, or the like, whether true or fictitious'?",
+    "choices": {
+      "1": "Tale",
+      "2": "Tall",
+      "3": "Tael",
+      "4": "Tail"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'a person who lacks good sense or judgment'?",
+    "choices": {
+      "1": "Fool",
+      "2": "Fule",
+      "3": "Folle",
+      "4": "Fole"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to make a harsh, grating noise'?",
+    "choices": {
+      "1": "Grate",
+      "2": "Great",
+      "3": "Grait",
+      "4": "Graet"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to go away'?",
+    "choices": {
+      "1": "Leave",
+      "2": "Leve",
+      "3": "Leav",
+      "4": "Lave"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to express sorrow or grief'?",
+    "choices": {
+      "1": "Mourn",
+      "2": "Morn",
+      "3": "Mourne",
+      "4": "Morne"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to make a loud, confused noise'?",
+    "choices": {
+      "1": "Racket",
+      "2": "Racquet",
+      "3": "Rackett",
+      "4": "Racqet"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'a broad, level area free of obstacles'?",
+    "choices": {
+      "1": "Plain",
+      "2": "Plane",
+      "3": "Plaine",
+      "4": "Plaen"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to become larger or longer'?",
+    "choices": {
+      "1": "Grow",
+      "2": "Gro",
+      "3": "Growe",
+      "4": "Groh"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to search thoroughly'?",
+    "choices": {
+      "1": "Scoure",
+      "2": "Scower",
+      "3": "Scour",
+      "4": "Scower"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "Which word means 'to tell an untruth'?",
+    "choices": {
+      "1": "Lye",
+      "2": "Lie",
+      "3": "Ly",
+      "4": "Ligh"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'a liquid used for cleaning or disinfecting'?",
+    "choices": {
+      "1": "Soap",
+      "2": "Soape",
+      "3": "Soapp",
+      "4": "Soapee"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to remove or extract'?",
+    "choices": {
+      "1": "Extract",
+      "2": "Ekstract",
+      "3": "Eckstract",
+      "4": "Estract"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'a point or place where two things are joined'?",
+    "choices": {
+      "1": "Joint",
+      "2": "Joind",
+      "3": "Joynt",
+      "4": "Jynt"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to enclose or surround with a wall'?",
+    "choices": {
+      "1": "Wale",
+      "2": "Wall",
+      "3": "Waul",
+      "4": "Wawl"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'to scatter or spread widely'?",
+    "choices": {
+      "1": "Disperse",
+      "2": "Dispurse",
+      "3": "Dysperse",
+      "4": "Dyspurse"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to produce or provide food'?",
+    "choices": {
+      "1": "Feede",
+      "2": "Feed",
+      "3": "Fede",
+      "4": "Feede"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Which word means 'to force out'?",
+    "choices": {
+      "1": "Explel",
+      "2": "Expell",
+      "3": "Expel",
+      "4": "Explle"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "Which word means 'a feeling of great joy or pride'?",
+    "choices": {
+      "1": "Elation",
+      "2": "Elatyon",
+      "3": "Elattion",
+      "4": "Elationn"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'to search or examine carefully'?",
+    "choices": {
+      "1": "Scrutinize",
+      "2": "Scrutenize",
+      "3": "Scrutinyze",
+      "4": "Scrootinize"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Which word means 'a small piece or scrap'?",
+    "choices": {
+      "1": "Shred",
+      "2": "Shredde",
+      "3": "Shreede",
+      "4": "Shreed"
+    },
+    "answer": "1"
+  }
 ]
