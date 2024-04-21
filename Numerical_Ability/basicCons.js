@@ -143,14 +143,26 @@ document.getElementById('nextBtn').addEventListener('click', () => {
 });
 
 const quitGame = () => {
-  if (confirm("Are you sure you want to quit the game?")) {
-    localStorage.setItem('mostRecentScore', score);
-    window.location.assign('/end.html');
-  }
+  localStorage.setItem('mostRecentScore', score);
+  window.location.assign('/end.html');
 };
 
-document.getElementById('quitBtn').addEventListener('click', quitGame);
-
+document.getElementById('quitBtn').addEventListener('click', function () {
+  Swal.fire({
+    title: 'Are you sure you want to quit?',
+    text: "Your progress will be lost!",
+    icon: 'warning',
+    showCancelButton: true,
+    confirmButtonColor: '#3085d6',
+    cancelButtonColor: '#d33',
+    confirmButtonText: 'Yes, quit!',
+    cancelButtonText: 'No, stay'
+  }).then((result) => {
+    if (result.isConfirmed) {
+      quitGame();
+    }
+  });
+});
 document.getElementById('explainBtn').addEventListener('click', () => {
   showExplanation();
 });
