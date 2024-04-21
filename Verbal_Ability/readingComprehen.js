@@ -16,29 +16,29 @@ let questions = [];
 
 // Load questions from the JSON file
 fetch('/Verbal_Ability/readingcomp.json')
-  .then((res) => res.json())
-  .then((loadedQuestions) => {
-    questions = loadedQuestions.map((loadedQuestion) => {
-      const formattedQuestion = {
-        question: loadedQuestion.question,
-        question2: loadedQuestion.question2,
-      };
+    .then((res) => res.json())
+    .then((loadedQuestions) => {
+        questions = loadedQuestions.map((loadedQuestion) => {
+            const formattedQuestion = {
+                question: loadedQuestion.question,
+                question2: loadedQuestion.question2,
+            };
 
-      const answerChoices = Object.values(loadedQuestion.choices);
-      formattedQuestion.answer = loadedQuestion.answer;
+            const answerChoices = Object.values(loadedQuestion.choices);
+            formattedQuestion.answer = loadedQuestion.answer;
 
-      answerChoices.forEach((choice, index) => {
-        formattedQuestion['choice' + (index + 1)] = choice;
-      });
+            answerChoices.forEach((choice, index) => {
+                formattedQuestion['choice' + (index + 1)] = choice;
+            });
 
-      return formattedQuestion;
+            return formattedQuestion;
+        });
+
+        startGame();
+    })
+    .catch((err) => {
+        console.error(err);
     });
-
-    startGame();
-  })
-  .catch((err) => {
-    console.error(err);
-  });
 
 //CONSTANTS
 const CORRECT_BONUS = 1;
@@ -74,7 +74,7 @@ getNewQuestion = () => {
 
     questionCounter++;
     progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
-    
+
     // Update the progress bar
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
@@ -108,13 +108,13 @@ choices.forEach((choice) => {
         const classToApply =
             selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
-            if (classToApply === 'correct') {
-                incrementScore(CORRECT_BONUS);
-                 // Play the correct sound
-                 correctSound.play();
-            } else {
-                 // Play the wrong sound
-                 wrongSound.play();
+        if (classToApply === 'correct') {
+            incrementScore(CORRECT_BONUS);
+            // Play the correct sound
+            correctSound.play();
+        } else {
+            // Play the wrong sound
+            wrongSound.play();
             // Highlight the correct answer if the selected answer is wrong
             const correctChoice = choices.find(
                 (choice) => choice.dataset['number'] == currentQuestion.answer
@@ -142,12 +142,24 @@ document.getElementById('nextBtn').addEventListener('click', () => {
 });
 
 const quitGame = () => {
-    if (confirm("Are you sure you want to quit the game?")) {
-        // If user confirms, finish the game
-        localStorage.setItem('mostRecentScore', score);
-        window.location.assign('/end.html');
-    }
+    localStorage.setItem('mostRecentScore', score);
+    window.location.assign('/end.html');
 };
 
 // Add a click event listener to the quit button
-document.getElementById('quitBtn').addEventListener('click', quitGame);
+document.getElementById('quitBtn').addEventListener('click', function () {
+    Swal.fire({
+        title: 'Are you sure you want to quit?',
+        text: "Your progress will be lost!",
+        icon: 'warning',
+        showCancelButton: true,
+        confirmButtonColor: '#3085d6',
+        cancelButtonColor: '#d33',
+        confirmButtonText: 'Yes, quit!',
+        cancelButtonText: 'No, stay'
+    }).then((result) => {
+        if (result.isConfirmed) {
+            quitGame();
+        }
+    });
+});
