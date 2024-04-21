@@ -1,162 +1,266 @@
 [
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+  {
+    "question": "I _______ my Boss in his duty.",
+    "example": "Accomodate",
+    "choices": {
+      "1": "Accomodate",
+      "2": "Acommodate",
+      "3": "Accommodate",
+      "4": "Acomodate"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "She wore a beautiful ________ dress.",
+    "example": "Millenium",
+    "choices": {
+      "1": "Millenium",
+      "2": "Millennium",
+      "3": "Milennium",
+      "4": "Millenium"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "The music had a rhythmic ________.",
+    "example": "Rhythem",
+    "choices": {
+      "1": "Rhythem",
+      "2": "Rythm",
+      "3": "Rhythm",
+      "4": "Rithym"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "Please ________ this package.",
+    "example": "Recieve",
+    "choices": {
+      "1": "Recieve",
+      "2": "Receive",
+      "3": "Recive",
+      "4": "Receiv"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "The _________ of the new building impressed everyone.",
+    "example": "Accomodate",
+    "choices": {
+      "1": "Accomodate",
+      "2": "Acommodate",
+      "3": "Accommodate",
+      "4": "Acomodate"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "The ________ ceremony was a grand event.",
+    "example": "Millenium",
+    "choices": {
+      "1": "Millenium",
+      "2": "Millennium",
+      "3": "Milennium",
+      "4": "Millenium"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Her voice had a melodic ________.",
+    "example": "Rhythem",
+    "choices": {
+      "1": "Rhythem",
+      "2": "Rythm",
+      "3": "Rhythm",
+      "4": "Rithym"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "I need to ________ the broken chair.",
+    "example": "Recieve",
+    "choices": {
+      "1": "Recieve",
+      "2": "Receive",
+      "3": "Recive",
+      "4": "Receiv"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "The _______ of the law was swift and fair.",
+    "example": "Jugement",
+    "choices": {
+      "1": "Jugement",
+      "2": "Judgement",
+      "3": "Judgment",
+      "4": "Jugdment"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "Her ________ for success was evident in her dedication.",
+    "example": "Determanation",
+    "choices": {
+      "1": "Determanation",
+      "2": "Determination",
+      "3": "Determinnation",
+      "4": "Determenation"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "The ________ of the story was unexpected.",
+    "example": "Conclution",
+    "choices": {
+      "1": "Conclution",
+      "2": "Conclusion",
+      "3": "Concludion",
+      "4": "Concluion"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "His _______ to the team was undeniable.",
+    "example": "Committment",
+    "choices": {
+      "1": "Committment",
+      "2": "Comitment",
+      "3": "Commitment",
+      "4": "Commitemnt"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "The _______ in the painting was striking.",
+    "example": "Lavendar",
+    "choices": {
+      "1": "Lavendar",
+      "2": "Lavander",
+      "3": "Lavender",
+      "4": "Lavendre"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3"
+  },
+  {
+    "question": "His _______ to detail was impeccable.",
+    "example": "Attentiveness",
+    "choices": {
+      "1": "Attentiveness",
+      "2": "Atentiveness",
+      "3": "Attentivness",
+      "4": "Attentivenes"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "The _______ of the crime scene was thorough.",
+    "example": "Investegation",
+    "choices": {
+      "1": "Investegation",
+      "2": "Investigation",
+      "3": "Investegasion",
+      "4": "Investigattion"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
-    }
+    "answer": "2"
+  },
+  {
+    "question": "The _______ of the exam was challenging.",
+    "example": "Difficulty",
+    "choices": {
+      "1": "Difficulty",
+      "2": "Difficultty",
+      "3": "Difficulity",
+      "4": "Difficulti"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "The _______ of the sculpture was awe-inspiring.",
+    "example": "Exquisite",
+    "choices": {
+      "1": "Exquisite",
+      "2": "Exquiste",
+      "3": "Exquizite",
+      "4": "Exquisit"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Her _______ in the subject was unparalleled.",
+    "example": "Expertise",
+    "choices": {
+      "1": "Expertise",
+      "2": "Expretise",
+      "3": "Expertice",
+      "4": "Expartise"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "The _______ of the architecture was breathtaking.",
+    "example": "Magnificence",
+    "choices": {
+      "1": "Magnificence",
+      "2": "Magnificanse",
+      "3": "Magnifisence",
+      "4": "Magnifisance"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "His _______ for the arts was evident in his collection.",
+    "example": "Appreciation",
+    "choices": {
+      "1": "Appreciation",
+      "2": "Appreciattion",
+      "3": "Appreciaton",
+      "4": "Appreciacion"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "The _______ of the symphony left the audience in awe.",
+    "example": "Spectacle",
+    "choices": {
+      "1": "Spectacle",
+      "2": "Spectacel",
+      "3": "Spectakle",
+      "4": "Spectakel"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Her _______ of the language was unparalleled.",
+    "example": "Proficiency",
+    "choices": {
+      "1": "Proficiency",
+      "2": "Profficiency",
+      "3": "Proficency",
+      "4": "Profficency"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "The _______ of the artwork was astounding.",
+    "example": "Intricacy",
+    "choices": {
+      "1": "Intricacy",
+      "2": "Intracacy",
+      "3": "Intricasity",
+      "4": "Intracicity"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "His _______ in mathematics was unquestionable.",
+    "example": "Mastery",
+    "choices": {
+      "1": "Mastery",
+      "2": "Mastry",
+      "3": "Mastrey",
+      "4": "Masteri"
+    },
+    "answer": "1"
+  }
 ]

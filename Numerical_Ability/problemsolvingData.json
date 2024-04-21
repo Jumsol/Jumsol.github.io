@@ -1,162 +1,321 @@
 [
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+  {
+    "question": "You have a bag containing 10 red marbles and 5 blue marbles. If you randomly select two marbles from the bag without replacement, what is the probability that both marbles are blue?",
+    "choices": {
+      "1": "1/3",
+      "2": "1/7",
+      "3": "5/15",
+      "4": "1/15"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4",
+    "explanation": "To find the probability of selecting two blue marbles, first calculate the probability of selecting the first blue marble (5 blue marbles out of 15 total marbles). Then, since one blue marble has been removed, there are 14 marbles left, including 4 blue marbles. Therefore, the probability of selecting the second blue marble is 4 blue marbles out of 14 total marbles. Multiply the probabilities together to find the combined probability: (5/15) * (4/14) = 1/15."
+  },
+  {
+    "question": "If a store sells 20 computers for $500 each, what is the total revenue?",
+    "choices": {
+      "1": "$10,000",
+      "2": "$15,000",
+      "3": "$20,000",
+      "4": "$25,000"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3",
+    "explanation": "To find the total revenue, multiply the number of computers sold (20) by the price per computer ($500). So, the total revenue is 20 computers * $500 = $10,000."
+  },
+  {
+    "question": "A recipe calls for 2 cups of flour to make 12 cookies. How many cups of flour are needed to make 36 cookies using the same recipe?",
+    "choices": {
+      "1": "6 cups",
+      "2": "4 cups",
+      "3": "8 cups",
+      "4": "12 cups"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2",
+    "explanation": "Since the number of cookies is tripled (from 12 to 36), the amount of flour needed is also tripled. Therefore, 2 cups * 3 = 6 cups of flour are needed to make 36 cookies using the same recipe."
+  },
+  {
+    "question": "If a car travels 240 miles in 4 hours, what is its average speed?",
+    "choices": {
+      "1": "60 mph",
+      "2": "50 mph",
+      "3": "70 mph",
+      "4": "80 mph"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1",
+    "explanation": "Average speed is calculated by dividing the total distance traveled by the total time taken. In this case, the car traveled 240 miles in 4 hours, so its average speed is 240 miles / 4 hours = 60 mph."
+  },
+  {
+    "question": "A rectangular garden measures 10 feet by 15 feet. What is its area in square feet?",
+    "choices": {
+      "1": "150 square feet",
+      "2": "125 square feet",
+      "3": "200 square feet",
+      "4": "175 square feet"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1",
+    "explanation": "To find the area of a rectangle, multiply its length by its width. In this case, the length is 10 feet and the width is 15 feet. So, the area is 10 feet * 15 feet = 150 square feet."
+  },
+  {
+    "question": "If a bookshelf has 5 shelves and each shelf can hold 10 books, how many books can the bookshelf hold in total?",
+    "choices": {
+      "1": "50 books",
+      "2": "40 books",
+      "3": "30 books",
+      "4": "20 books"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1",
+    "explanation": "To find the total number of books the bookshelf can hold, multiply the number of shelves (5) by the number of books each shelf can hold (10), resulting in 5 shelves * 10 books = 50 books."
+  },
+  {
+    "question": "If a store sells 20 computers for $500 each, what is the total revenue?",
+    "choices": {
+      "1": "$10,000",
+      "2": "$15,000",
+      "3": "$20,000",
+      "4": "$25,000"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3",
+    "explanation": "To find the total revenue, multiply the number of computers sold (20) by the price per computer ($500). So, the total revenue is 20 computers * $500 = $10,000."
+  },
+  {
+    "question": "A recipe calls for 2 cups of flour to make 12 cookies. How many cups of flour are needed to make 36 cookies using the same recipe?",
+    "choices": {
+      "1": "6 cups",
+      "2": "4 cups",
+      "3": "8 cups",
+      "4": "12 cups"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2",
+    "explanation": "Since the number of cookies is tripled (from 12 to 36), the amount of flour needed is also tripled. Therefore, 2 cups * 3 = 6 cups of flour are needed to make 36 cookies using the same recipe."
+  },
+  {
+    "question": "A rectangular garden measures 10 feet by 15 feet. What is its area in square feet?",
+    "choices": {
+      "1": "150 square feet",
+      "2": "125 square feet",
+      "3": "200 square feet",
+      "4": "175 square feet"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1",
+    "explanation": "To find the area of a rectangle, multiply its length by its width. In this case, the length is 10 feet and the width is 15 feet. So, the area is 10 * 15 = 150 square feet."
+  },
+  {
+    "question": "If a bookshelf has 5 shelves and each shelf can hold 10 books, how many books can the bookshelf hold in total?",
+    "choices": {
+      "1": "50 books",
+      "2": "40 books",
+      "3": "30 books",
+      "4": "20 books"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1",
+    "explanation": "To find the total number of books the bookshelf can hold, multiply the number of shelves (5) by the number of books each shelf can hold (10), resulting in 50 books."
+  },
+  {
+    "question": "If a box contains 12 chocolates and you take 4 out, how many chocolates are left in the box?",
+    "choices": {
+      "1": "6 chocolates",
+      "2": "8 chocolates",
+      "3": "10 chocolates",
+      "4": "12 chocolates"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2",
+    "explanation": "To find the number of chocolates left in the box, subtract the number of chocolates taken out (4) from the total number of chocolates (12). So, there are 12 - 4 = 8 chocolates left in the box."
+  },
+  {
+    "question": "A garden is 20 meters long and 15 meters wide. What is the perimeter of the garden?",
+    "choices": {
+      "1": "30 meters",
+      "2": "70 meters",
+      "3": "50 meters",
+      "4": "80 meters"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4",
+    "explanation": "To find the perimeter of a rectangle, add the lengths of all its sides. In this case, the garden is 20 meters long and 15 meters wide, so the perimeter is 2 * (20 + 15) = 70 meters."
+  },
+  {
+    "question": "If a bag contains 8 red marbles and 4 blue marbles, what is the probability of randomly selecting a red marble?",
+    "choices": {
+      "1": "1/2",
+      "2": "1/4",
+      "3": "2/3",
+      "4": "3/4"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "3",
+    "explanation": "To find the probability of selecting a red marble, divide the number of red marbles (8) by the total number of marbles (8 + 4 = 12). So, the probability is 8/12, which simplifies to 2/3."
+  },
+  {
+    "question": "A restaurant sells 25 burgers in a day. If each burger costs $5, how much money does the restaurant make from burger sales?",
+    "choices": {
+      "1": "$125",
+      "2": "$100",
+      "3": "$150",
+      "4": "$175"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1",
+    "explanation": "To find the total revenue from burger sales, multiply the number of burgers sold (25) by the price per burger ($5). So, the restaurant makes 25 * $5 = $125."
+  },
+  {
+    "question": "If a student scores 80% on a test with 50 questions, how many questions did the student answer correctly?",
+    "choices": {
+      "1": "40 questions",
+      "2": "45 questions",
+      "3": "35 questions",
+      "4": "30 questions"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
-    }
+    "answer": "2",
+    "explanation": "To find the number of questions answered correctly, multiply the total number of questions (50) by the percentage score (80%) and divide by 100. So, (50 * 80) / 100 = 40. Therefore, the student answered 40 questions correctly."
+  },
+  {
+    "question": "If a train travels at a speed of 80 kilometers per hour for 2.5 hours, how far does it travel?",
+    "choices": {
+      "1": "160 kilometers",
+      "2": "180 kilometers",
+      "3": "200 kilometers",
+      "4": "220 kilometers"
+    },
+    "answer": "3",
+    "explanation": "To find the total distance traveled, multiply the speed (80 kilometers per hour) by the time (2.5 hours). So, the distance traveled is 80 * 2.5 = 200 kilometers."
+  },
+  {
+    "question": "A pizza is divided into 8 equal slices. If 3 friends each eat 2 slices, how many slices are left?",
+    "choices": {
+      "1": "2 slices",
+      "2": "3 slices",
+      "3": "4 slices",
+      "4": "5 slices"
+    },
+    "answer": "4",
+    "explanation": "If each friend eats 2 slices, then they consume a total of 3 * 2 = 6 slices. Subtracting this from the total number of slices (8) leaves 8 - 6 = 2 slices. Therefore, there are 2 slices left."
+  },
+  {
+    "question": "If a company sells 150 products at $10 each, how much revenue does it generate?",
+    "choices": {
+      "1": "$1,500",
+      "2": "$15,000",
+      "3": "$10,000",
+      "4": "$100,000"
+    },
+    "answer": "1",
+    "explanation": "To find the total revenue, multiply the number of products sold (150) by the price per product ($10). So, the revenue generated is 150 * 10 = $1,500."
+  },
+  {
+    "question": "A triangle has side lengths of 6 cm, 8 cm, and 10 cm. What type of triangle is it?",
+    "choices": {
+      "1": "Equilateral",
+      "2": "Isosceles",
+      "3": "Scalene",
+      "4": "Right"
+    },
+    "answer": "4",
+    "explanation": "Since the triangle has side lengths of 6 cm, 8 cm, and 10 cm, and the square of the longest side (10 cm) is equal to the sum of the squares of the other two sides (6 cm and 8 cm), this triangle is a right triangle."
+  },
+  {
+    "question": "If a store offers a 20% discount on a $50 item, how much does the customer pay after the discount?",
+    "choices": {
+      "1": "$40",
+      "2": "$45",
+      "3": "$48",
+      "4": "$50"
+    },
+    "answer": "3",
+    "explanation": "To find the price after the discount, subtract 20% of $50 (which is $10) from the original price. $50 - $10 = $40. Therefore, the customer pays $40 after the discount."
+  },
+  {
+    "question": "If a box contains 24 candies and you take 8 out, what percentage of candies remain in the box?",
+    "choices": {
+      "1": "25%",
+      "2": "50%",
+      "3": "66.67%",
+      "4": "75%"
+    },
+    "answer": "4",
+    "explanation": "To find the percentage of candies remaining, subtract the number of candies taken out (8) from the total number of candies (24) to get the remaining candies (24 - 8 = 16). Then, divide the remaining candies by the total number of candies and multiply by 100 to get the percentage: (16 / 24) * 100 = 66.67%."
+  },
+  {
+    "question": "A rectangular field measures 30 meters by 40 meters. What is its area in square meters?",
+    "choices": {
+      "1": "120 square meters",
+      "2": "130 square meters",
+      "3": "150 square meters",
+      "4": "160 square meters"
+    },
+    "answer": "3",
+    "explanation": "The area of a rectangle is calculated by multiplying its length by its width. In this case, the length is 30 meters and the width is 40 meters. So, the area is 30 * 40 = 1200 square meters."
+  },
+  {
+    "question": "If a bag contains 6 green marbles, 4 blue marbles, and 2 red marbles, what is the probability of randomly selecting a blue marble?",
+    "choices": {
+      "1": "1/4",
+      "2": "1/3",
+      "3": "1/2",
+      "4": "2/3"
+    },
+    "answer": "2",
+    "explanation": "To find the probability of selecting a blue marble, divide the number of blue marbles (4) by the total number of marbles (6 + 4 + 2 = 12). So, the probability is 4/12, which simplifies to 1/3."
+  },
+  {
+    "question": "A car travels at a speed of 70 miles per hour. How long does it take to travel 140 miles?",
+    "choices": {
+      "1": "1 hour",
+      "2": "2 hours",
+      "3": "3 hours",
+      "4": "4 hours"
+    },
+    "answer": "2",
+    "explanation": "To find the time taken, divide the distance traveled (140 miles) by the speed (70 miles per hour). So, the time taken is 140 / 70 = 2 hours."
+  },
+  {
+    "question": "If a bookstore sells 120 books in a week, and each book costs $10, what is the total revenue for the week?",
+    "choices": {
+      "1": "$120",
+      "2": "$1,200",
+      "3": "$12,000",
+      "4": "$120,000"
+    },
+    "answer": "2",
+    "explanation": "To find the total revenue, multiply the number of books sold (120) by the price per book ($10), resulting in $1,200."
+  },
+  {
+    "question": "A rectangle has a perimeter of 36 meters and a length of 12 meters. What is the width of the rectangle?",
+    "choices": {
+      "1": "6 meters",
+      "2": "8 meters",
+      "3": "10 meters",
+      "4": "12 meters"
+    },
+    "answer": "1",
+    "explanation": "The perimeter of a rectangle is twice the sum of its length and width. Given that the length is 12 meters and the perimeter is 36 meters, subtracting twice the length from the perimeter yields the width (36 - 2*12 = 12 meters)."
+  },
+  {
+    "question": "If a bus travels at a speed of 50 kilometers per hour for 3 hours, how far does it travel?",
+    "choices": {
+      "1": "150 kilometers",
+      "2": "100 kilometers",
+      "3": "200 kilometers",
+      "4": "250 kilometers"
+    },
+    "answer": "1",
+    "explanation": "To find the total distance traveled, multiply the speed (50 kilometers per hour) by the time (3 hours), resulting in 150 kilometers."
+  },
+  {
+    "question": "A recipe calls for 1 cup of sugar to make 12 cookies. How many cups of sugar are needed to make 36 cookies using the same recipe?",
+    "choices": {
+      "1": "1 cup",
+      "2": "2 cups",
+      "3": "3 cups",
+      "4": "4 cups"
+    },
+    "answer": "2",
+    "explanation": "Since the number of cookies is tripled (from 12 to 36), the amount of sugar needed is also tripled. Therefore, 3 cups of sugar are needed to make 36 cookies."
+  },
+  {
+    "question": "If a restaurant serves 50 customers in a day and each customer spends $20 on average, what is the total revenue for the day?",
+    "choices": {
+      "1": "$500",
+      "2": "$1,000",
+      "3": "$1,500",
+      "4": "$2,000"
+    },
+    "answer": "2",
+    "explanation": "To find the total revenue, multiply the number of customers served (50) by the average amount spent per customer ($20), resulting in $1,000."
+  }
 ]

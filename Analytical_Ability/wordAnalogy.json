@@ -1,162 +1,402 @@
 [
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+  {
+    "question": "Cat is to kitten as dog is to ____?",
+    "choices": {
+      "1": "Cub",
+      "2": "Puppy",
+      "3": "Fawn",
+      "4": "Chick"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Ocean is to water as forest is to ____?",
+    "choices": {
+      "1": "Plants",
+      "2": "Trees",
+      "3": "Animals",
+      "4": "Birds"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Book is to reading as song is to ____?",
+    "choices": {
+      "1": "Listening",
+      "2": "Writing",
+      "3": "Dancing",
+      "4": "Singing"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4"
+  },
+  {
+    "question": "Fire is to hot as ice is to ____?",
+    "choices": {
+      "1": "Cold",
+      "2": "Wet",
+      "3": "Hard",
+      "4": "Melt"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Clock is to time as thermometer is to ____?",
+    "choices": {
+      "1": "Temperature",
+      "2": "Speed",
+      "3": "Distance",
+      "4": "Direction"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Hospital is to patient as school is to ____?",
+    "choices": {
+      "1": "Student",
+      "2": "Teacher",
+      "3": "Patient",
+      "4": "Medicine"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Pen is to write as knife is to ____?",
+    "choices": {
+      "1": "Chop",
+      "2": "Cut",
+      "3": "Eat",
+      "4": "Cook"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Garden is to flower as farm is to ____?",
+    "choices": {
+      "1": "Field",
+      "2": "Crop",
+      "3": "Vegetable",
+      "4": "Land"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Doctor is to hospital as teacher is to ____?",
+    "choices": {
+      "1": "Classroom",
+      "2": "Book",
+      "3": "Student",
+      "4": "School"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4"
+  },
+  {
+    "question": "Sun is to day as moon is to ____?",
+    "choices": {
+      "1": "Night",
+      "2": "Sky",
+      "3": "Stars",
+      "4": "Space"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Tree is to trunk as house is to ____?",
+    "choices": {
+      "1": "Roof",
+      "2": "Door",
+      "3": "Window",
+      "4": "Foundation"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "4"
+  },
+  {
+    "question": "Airplane is to fly as boat is to ____?",
+    "choices": {
+      "1": "Sail",
+      "2": "Row",
+      "3": "Drive",
+      "4": "Swim"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Salt is to salty as sugar is to ____?",
+    "choices": {
+      "1": "Sweet",
+      "2": "Sour",
+      "3": "Bitter",
+      "4": "Salty"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "1"
+  },
+  {
+    "question": "Computer is to technology as wheel is to ____?",
+    "choices": {
+      "1": "Transportation",
+      "2": "Invention",
+      "3": "Revolution",
+      "4": "Rotation"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
+    "answer": "2"
+  },
+  {
+    "question": "Moon is to satellite as Earth is to ____?",
+    "choices": {
+      "1": "Star",
+      "2": "Planet",
+      "3": "Galaxy",
+      "4": "Sun"
     },
-    {
-        "question": "thisisunderconstructionpleasewaitforupdate",
-        "choices": {
-          "1": "testing1",
-          "2": "testing2",
-          "3": "testing3",
-          "4": "testing4"
-        },
-        "answer": "4"
-    }
+    "answer": "2"
+  },
+  {
+    "question": "Fish is to water as bird is to ____?",
+    "choices": {
+      "1": "Tree",
+      "2": "Air",
+      "3": "Nest",
+      "4": "Sky"
+    },
+    "answer": "4"
+  },
+  {
+    "question": "Knife is to cut as scissors is to ____?",
+    "choices": {
+      "1": "Sew",
+      "2": "Cook",
+      "3": "Slice",
+      "4": "Trim"
+    },
+    "answer": "4"
+  },
+  {
+    "question": "Paper is to write as chalkboard is to ____?",
+    "choices": {
+      "1": "Erase",
+      "2": "Draw",
+      "3": "Read",
+      "4": "Paint"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Seed is to plant as egg is to ____?",
+    "choices": {
+      "1": "Chicken",
+      "2": "Hen",
+      "3": "Nest",
+      "4": "Bird"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "House is to home as school is to ____?",
+    "choices": {
+      "1": "Study",
+      "2": "Learn",
+      "3": "Teach",
+      "4": "Education"
+    },
+    "answer": "4"
+  },
+  {
+    "question": "Bicycle is to ride as car is to ____?",
+    "choices": {
+      "1": "Drive",
+      "2": "Pilot",
+      "3": "Navigate",
+      "4": "Sail"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Library is to books as museum is to ____?",
+    "choices": {
+      "1": "Artifacts",
+      "2": "Documents",
+      "3": "Exhibits",
+      "4": "Collections"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "Clock is to time as thermometer is to ____?",
+    "choices": {
+      "1": "Temperature",
+      "2": "Weather",
+      "3": "Humidity",
+      "4": "Pressure"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Cat is to fur as bird is to ____?",
+    "choices": {
+      "1": "Feathers",
+      "2": "Beak",
+      "3": "Nest",
+      "4": "Wings"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Chair is to sit as bed is to ____?",
+    "choices": {
+      "1": "Sleep",
+      "2": "Eat",
+      "3": "Read",
+      "4": "Study"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Pencil is to write as brush is to ____?",
+    "choices": {
+      "1": "Paint",
+      "2": "Sculpt",
+      "3": "Sketch",
+      "4": "Erase"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Road is to car as runway is to ____?",
+    "choices": {
+      "1": "Plane",
+      "2": "Boat",
+      "3": "Train",
+      "4": "Bicycle"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Window is to glass as door is to ____?",
+    "choices": {
+      "1": "Wood",
+      "2": "Metal",
+      "3": "Knob",
+      "4": "Entry"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Spoon is to eat as fork is to ____?",
+    "choices": {
+      "1": "Stab",
+      "2": "Cut",
+      "3": "Scoop",
+      "4": "Chop"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "River is to flow as road is to ____?",
+    "choices": {
+      "1": "Travel",
+      "2": "Drive",
+      "3": "Walk",
+      "4": "Bicycle"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Pen is to ink as pencil is to ____?",
+    "choices": {
+      "1": "Graphite",
+      "2": "Lead",
+      "3": "Eraser",
+      "4": "Paper"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Fish is to water as bird is to ____?",
+    "choices": {
+      "1": "Tree",
+      "2": "Air",
+      "3": "Cloud",
+      "4": "Rain"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Seed is to plant as egg is to ____?",
+    "choices": {
+      "1": "Chicken",
+      "2": "Nest",
+      "3": "Bird",
+      "4": "Shell"
+    },
+    "answer": "1"
+  },
+  {
+    "question": "Key is to lock as button is to ____?",
+    "choices": {
+      "1": "Open",
+      "2": "Close",
+      "3": "Press",
+      "4": "Fasten"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "Tree is to leaf as flower is to ____?",
+    "choices": {
+      "1": "Stem",
+      "2": "Root",
+      "3": "Petal",
+      "4": "Branch"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "Sailboat is to water as airplane is to ____?",
+    "choices": {
+      "1": "Road",
+      "2": "Air",
+      "3": "Track",
+      "4": "Runway"
+    },
+    "answer": "2"
+  },
+  {
+    "question": "Brick is to wall as book is to ____?",
+    "choices": {
+      "1": "Page",
+      "2": "Story",
+      "3": "Library",
+      "4": "Shelf"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "Cloud is to sky as fish is to ____?",
+    "choices": {
+      "1": "Ocean",
+      "2": "River",
+      "3": "Water",
+      "4": "Swim"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "Car is to road as boat is to ____?",
+    "choices": {
+      "1": "Dock",
+      "2": "Harbor",
+      "3": "Sea",
+      "4": "Sail"
+    },
+    "answer": "3"
+  },
+  {
+    "question": "Apple is to fruit as potato is to ____?",
+    "choices": {
+      "1": "Vegetable",
+      "2": "Root",
+      "3": "Stem",
+      "4": "Leaf"
+    },
+    "answer": "1"
+  }
 ]
